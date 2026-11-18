@@ -1,0 +1,4043 @@
+{
+  "settings": {
+    "user_id": "me",
+    "access_token": "",
+    "imgbb_key": "",
+    "enabled": true,
+    "slot_preset": "4 khung giờ vàng",
+    "custom_slots": "",
+    "posts_per_day": 10,
+    "jitter_minutes": 15,
+    "min_gap_hours": 3.0,
+    "images_per_post": 3,
+    "auto_refill": true,
+    "refill_days": 14,
+    "max_attempts": 3,
+    "retry_minutes": 5,
+    "blackout_dates": [],
+    "daily_backup": true,
+    "token_expires_at": "",
+    "max_posts_per_tick": 3
+  },
+  "resources": {
+    "links": [
+      "https://s.shopee.vn/4qHD54wruC",
+      "https://s.shopee.vn/4fxmslxVFB",
+      "https://s.shopee.vn/5Au3TgvbEI",
+      "https://s.shopee.vn/50adHNwEZH",
+      "https://s.shopee.vn/4B1WHqzPG8",
+      "https://s.shopee.vn/40i65Y02b7",
+      "https://s.shopee.vn/4VeMgSy8aE",
+      "https://s.shopee.vn/4LKwU9ylvD",
+      "https://s.shopee.vn/3VlpUd1wc4",
+      "https://s.shopee.vn/3LSPIK2Zx3",
+      "https://s.shopee.vn/3qOftF0fwA",
+      "https://s.shopee.vn/3g5Fgw1JH9",
+      "https://s.shopee.vn/2qW8hP4Ty0",
+      "https://s.shopee.vn/2gCiV657Iz",
+      "https://s.shopee.vn/3B8z613DI6",
+      "https://s.shopee.vn/30pYti3qd5",
+      "https://s.shopee.vn/2BGRuB71Jw",
+      "https://s.shopee.vn/20x1hs7eev",
+      "https://s.shopee.vn/2VtIIn5ke2",
+      "https://s.shopee.vn/2LZs6U6Nz1",
+      "https://s.shopee.vn/1W0l6x9Yfs",
+      "https://s.shopee.vn/1LhKueAC0r",
+      "https://s.shopee.vn/1qdbVZ8Hzy",
+      "https://s.shopee.vn/6VPR4EZWfI",
+      "https://s.shopee.vn/6L60rvaA0H",
+      "https://s.shopee.vn/6AmafcanLG",
+      "https://s.shopee.vn/60TATJbQgF",
+      "https://s.shopee.vn/5q9kH0c41E",
+      "https://s.shopee.vn/5fqK4hchMD",
+      "https://s.shopee.vn/5VWtsOdKhC",
+      "https://s.shopee.vn/5LDTg5dy2B",
+      "https://s.shopee.vn/AUvZpaKIYC",
+      "https://s.shopee.vn/AKc9dHKvtB",
+      "https://s.shopee.vn/AAIjQyLZEA",
+      "https://s.shopee.vn/9zzJEfMCZ9",
+      "https://s.shopee.vn/9pft2MMpu8",
+      "https://s.shopee.vn/9fMSq3NTF7",
+      "https://s.shopee.vn/9V32dkO6a6",
+      "https://s.shopee.vn/9KjcRROjv5",
+      "https://s.shopee.vn/9AQCF8PNG4",
+      "https://s.shopee.vn/906m2pQ0b3",
+      "https://s.shopee.vn/8pnLqWQdw2",
+      "https://s.shopee.vn/8fTveDRHH1",
+      "https://s.shopee.vn/8VAVRuRuc0",
+      "https://s.shopee.vn/8Kr5FbSXwz",
+      "https://s.shopee.vn/8AXf3ITBHy",
+      "https://s.shopee.vn/80EEqzTocx",
+      "https://s.shopee.vn/2VtIIsokmu",
+      "https://s.shopee.vn/2LZs6ZpO7t",
+      "https://s.shopee.vn/2BGRuGq1Ss",
+      "https://s.shopee.vn/20x1hxqenr",
+      "https://s.shopee.vn/1qdbVerI8q",
+      "https://s.shopee.vn/1gKBJLrvTp",
+      "https://s.shopee.vn/1W0l72sYoo",
+      "https://s.shopee.vn/1LhKujtC9n",
+      "https://s.shopee.vn/1BNuiQtpUm",
+      "https://s.shopee.vn/114UW7uSpl",
+      "https://s.shopee.vn/ql4Jov6Ak",
+      "https://s.shopee.vn/gRe7VvjVj",
+      "https://s.shopee.vn/W8DvCwMqi",
+      "https://s.shopee.vn/Lonitx0Bh",
+      "https://s.shopee.vn/BVNWaxdWg",
+      "https://s.shopee.vn/1BxKHyGrf",
+      "https://s.shopee.vn/5Au3TmebNg",
+      "https://s.shopee.vn/50adHTfEif",
+      "https://s.shopee.vn/4qHD5Afs3e",
+      "https://s.shopee.vn/4fxmsrgVOd",
+      "https://s.shopee.vn/4VeMgYh8jc",
+      "https://s.shopee.vn/4LKwUFhm4b",
+      "https://s.shopee.vn/4B1WHwiPPa",
+      "https://s.shopee.vn/40i65dj2kZ",
+      "https://s.shopee.vn/3qOftKjg5Y",
+      "https://s.shopee.vn/3g5Fh1kJQX",
+      "https://s.shopee.vn/3VlpUikwlW",
+      "https://s.shopee.vn/3LSPIPla6V",
+      "https://s.shopee.vn/3B8z66mDRU",
+      "https://s.shopee.vn/30pYtnmqmT",
+      "https://s.shopee.vn/2qW8hUnU7S",
+      "https://s.shopee.vn/2gCiVBo7SR",
+      "https://s.shopee.vn/7fbOSNV5JQ",
+      "https://s.shopee.vn/7puoegURyT",
+      "https://s.shopee.vn/7KyY3lWLzO",
+      "https://s.shopee.vn/7VHyG4VieR",
+      "https://s.shopee.vn/70Lhf9XcfM",
+      "https://s.shopee.vn/7Af7rSWzKP",
+      "https://s.shopee.vn/6firGXYtLK",
+      "https://s.shopee.vn/6q2HSqYG0N",
+      "https://s.shopee.vn/6L60rvaA1I",
+      "https://s.shopee.vn/6VPR4EZWgL",
+      "https://s.shopee.vn/60TATJbQhG",
+      "https://s.shopee.vn/6AmafcanMJ",
+      "https://s.shopee.vn/5fqK4hchNE",
+      "https://s.shopee.vn/5q9kH0c42H",
+      "https://s.shopee.vn/5LDTg5dy3C",
+      "https://s.shopee.vn/5VWtsOdKiF",
+      "https://s.shopee.vn/AKc9dHKvuC",
+      "https://s.shopee.vn/AUvZpaKIZF",
+      "https://s.shopee.vn/9zzJEfMCaA",
+      "https://s.shopee.vn/AAIjQyLZFD",
+      "https://s.shopee.vn/9fMSq3NTG8",
+      "https://s.shopee.vn/9pft2MMpvB",
+      "https://s.shopee.vn/9KjcRROjw6",
+      "https://s.shopee.vn/9V32dkO6b9",
+      "https://s.shopee.vn/906m2pQ0c4",
+      "https://s.shopee.vn/9AQCF8PNH7",
+      "https://s.shopee.vn/8fTveDRHI2",
+      "https://s.shopee.vn/8pnLqWQdx5",
+      "https://s.shopee.vn/8Kr5FbSXy0",
+      "https://s.shopee.vn/8VAVRuRud3",
+      "https://s.shopee.vn/80EEqzTody",
+      "https://s.shopee.vn/8AXf3ITBJ1",
+      "https://s.shopee.vn/2LZs6ZpO8u",
+      "https://s.shopee.vn/2VtIIsoknx",
+      "https://s.shopee.vn/20x1hxqeos",
+      "https://s.shopee.vn/2BGRuGq1Tv",
+      "https://s.shopee.vn/1gKBJLrvUq",
+      "https://s.shopee.vn/1qdbVerI9t",
+      "https://s.shopee.vn/1LhKujtCAo",
+      "https://s.shopee.vn/1W0l72sYpr",
+      "https://s.shopee.vn/114UW7uSqm",
+      "https://s.shopee.vn/1BNuiQtpVp",
+      "https://s.shopee.vn/gRe7VvjWk",
+      "https://s.shopee.vn/ql4Jov6Bn",
+      "https://s.shopee.vn/906m3djPOb",
+      "https://s.shopee.vn/8pnLrKk2ja",
+      "https://s.shopee.vn/8fTvf1kg4Z",
+      "https://s.shopee.vn/8VAVSilJPY",
+      "https://s.shopee.vn/8Kr5GPlwkX",
+      "https://s.shopee.vn/8AXf46ma5W",
+      "https://s.shopee.vn/80EErnnDQV",
+      "https://s.shopee.vn/AUvZqOdhM0",
+      "https://s.shopee.vn/AKc9e5eKgz",
+      "https://s.shopee.vn/AAIjRmey1y",
+      "https://s.shopee.vn/9zzJFTfbMx",
+      "https://s.shopee.vn/9pft3AgEhw",
+      "https://s.shopee.vn/9fMSqrgs2v",
+      "https://s.shopee.vn/9V32eYhVNu",
+      "https://s.shopee.vn/9KjcSFi8it",
+      "https://s.shopee.vn/6VPR52svTM",
+      "https://s.shopee.vn/6L60sjtYoL",
+      "https://s.shopee.vn/6AmagQuC9K",
+      "https://s.shopee.vn/60TAU7upUJ",
+      "https://s.shopee.vn/5q9kHovSpI",
+      "https://s.shopee.vn/5fqK5Vw6AH",
+      "https://s.shopee.vn/5VWttCwjVG",
+      "https://s.shopee.vn/5LDTgtxMqF",
+      "https://s.shopee.vn/7puofUnqlk",
+      "https://s.shopee.vn/7fbOTBoU6j",
+      "https://s.shopee.vn/7VHyGsp7Ri",
+      "https://s.shopee.vn/7KyY4Zpkmh",
+      "https://s.shopee.vn/7Af7sGqO7g",
+      "https://s.shopee.vn/70Lhfxr1Sf",
+      "https://s.shopee.vn/6q2HTerene",
+      "https://s.shopee.vn/6firHLsI8d",
+      "https://s.shopee.vn/3qOfu934t6",
+      "https://s.shopee.vn/3g5Fhq3iE5",
+      "https://s.shopee.vn/3VlpVX4LZ4",
+      "https://s.shopee.vn/3LSPJE4yu3",
+      "https://s.shopee.vn/3B8z6v5cF2",
+      "https://s.shopee.vn/30pYuc6Fa1",
+      "https://s.shopee.vn/2qW8iJ6sv0",
+      "https://s.shopee.vn/2gCiW07WFz",
+      "https://s.shopee.vn/5Au3Uay0BU",
+      "https://s.shopee.vn/50adIHydWT",
+      "https://s.shopee.vn/4qHD5yzGrS",
+      "https://s.shopee.vn/4fxmtfzuCR",
+      "https://s.shopee.vn/4VeMhN0XXQ",
+      "https://s.shopee.vn/4LKwV41AsP",
+      "https://s.shopee.vn/4B1WIl1oDO",
+      "https://s.shopee.vn/40i66S2RYN",
+      "https://s.shopee.vn/1BNujFDEIq",
+      "https://s.shopee.vn/114UWwDrdp",
+      "https://s.shopee.vn/ql4KdEUyo",
+      "https://s.shopee.vn/gRe8KF8Jn",
+      "https://s.shopee.vn/W8Dw1Flem",
+      "https://s.shopee.vn/LonjiGOzl",
+      "https://s.shopee.vn/BVNXPH2Kk",
+      "https://s.shopee.vn/1BxL6Hffj",
+      "https://s.shopee.vn/2VtIJh89bE",
+      "https://s.shopee.vn/2LZs7O8mwD",
+      "https://s.shopee.vn/2BGRv59QHC",
+      "https://s.shopee.vn/20x1imA3cB",
+      "https://s.shopee.vn/1qdbWTAgxA",
+      "https://s.shopee.vn/1gKBKABKI9",
+      "https://s.shopee.vn/1W0l7rBxd8",
+      "https://s.shopee.vn/1LhKvYCay7",
+      "https://s.shopee.vn/906m3djPPc",
+      "https://s.shopee.vn/9AQCFwim4f",
+      "https://s.shopee.vn/8fTvf1kg5a",
+      "https://s.shopee.vn/8pnLrKk2kd",
+      "https://s.shopee.vn/8Kr5GPlwlY",
+      "https://s.shopee.vn/8VAVSilJQb",
+      "https://s.shopee.vn/80EErnnDRW",
+      "https://s.shopee.vn/8AXf46ma6Z",
+      "https://s.shopee.vn/AKc9e5eKi0",
+      "https://s.shopee.vn/AUvZqOdhN3",
+      "https://s.shopee.vn/9zzJFTfbNy",
+      "https://s.shopee.vn/AAIjRmey31",
+      "https://s.shopee.vn/9fMSqrgs3w",
+      "https://s.shopee.vn/9pft3AgEiz",
+      "https://s.shopee.vn/9KjcSFi8ju",
+      "https://s.shopee.vn/9V32eYhVOx",
+      "https://s.shopee.vn/6L60sjtYpM",
+      "https://s.shopee.vn/6VPR52svUP",
+      "https://s.shopee.vn/60TAU7upVK",
+      "https://s.shopee.vn/6AmagQuCAN",
+      "https://s.shopee.vn/5fqK5Vw6BI",
+      "https://s.shopee.vn/5q9kHovSqL",
+      "https://s.shopee.vn/5LDTgtxMrG",
+      "https://s.shopee.vn/5VWttCwjWJ",
+      "https://s.shopee.vn/7fbOTBoU7k",
+      "https://s.shopee.vn/7puofUnqmn",
+      "https://s.shopee.vn/7KyY4Zpkni",
+      "https://s.shopee.vn/7VHyGsp7Sl",
+      "https://s.shopee.vn/70Lhfxr1Tg",
+      "https://s.shopee.vn/7Af7sGqO8j",
+      "https://s.shopee.vn/6firHLsI9e",
+      "https://s.shopee.vn/6q2HTereoh",
+      "https://s.shopee.vn/3g5Fhq3iF6",
+      "https://s.shopee.vn/3qOfu934u9",
+      "https://s.shopee.vn/3LSPJE4yv4",
+      "https://s.shopee.vn/3VlpVX4La7",
+      "https://s.shopee.vn/30pYuc6Fb2",
+      "https://s.shopee.vn/70Lhg3F7sP",
+      "https://s.shopee.vn/6q2HTkFlDO",
+      "https://s.shopee.vn/6firHRGOYN",
+      "https://s.shopee.vn/7puofaBxBc",
+      "https://s.shopee.vn/7fbOTHCaWb",
+      "https://s.shopee.vn/7VHyGyDDra",
+      "https://s.shopee.vn/7KyY4fDrCZ",
+      "https://s.shopee.vn/5q9kHuJZFI",
+      "https://s.shopee.vn/5fqK5bKCaH",
+      "https://s.shopee.vn/5VWttIKpvG",
+      "https://s.shopee.vn/5LDTgzLTGF",
+      "https://s.shopee.vn/6VPR58H1tU",
+      "https://s.shopee.vn/6L60spHfET",
+      "https://s.shopee.vn/6AmagWIIZS",
+      "https://s.shopee.vn/60TAUDIvuR",
+      "https://s.shopee.vn/9pft3G4L8C",
+      "https://s.shopee.vn/9fMSqx4yTB",
+      "https://s.shopee.vn/9V32ee5boA",
+      "https://s.shopee.vn/9KjcSL6F99",
+      "https://s.shopee.vn/AUvZqU1nmO",
+      "https://s.shopee.vn/AKc9eB2R7N",
+      "https://s.shopee.vn/AAIjRs34SM",
+      "https://s.shopee.vn/9zzJFZ3hnL",
+      "https://s.shopee.vn/8VAVSo9Pq4",
+      "https://s.shopee.vn/8Kr5GVA3B3",
+      "https://s.shopee.vn/8AXf4CAgW2",
+      "https://s.shopee.vn/80EErtBJr1",
+      "https://s.shopee.vn/9AQCG26sUG",
+      "https://s.shopee.vn/906m3j7VpF",
+      "https://s.shopee.vn/8pnLrQ89AE",
+      "https://s.shopee.vn/8fTvf78mVD",
+      "https://s.shopee.vn/1qdbWYYnMu",
+      "https://s.shopee.vn/1gKBKFZQht",
+      "https://s.shopee.vn/1W0l7wa42s",
+      "https://s.shopee.vn/1LhKvdahNr",
+      "https://s.shopee.vn/2VtIJmWG16",
+      "https://s.shopee.vn/2LZs7TWtM5",
+      "https://s.shopee.vn/2BGRvAXWh4",
+      "https://s.shopee.vn/20x1irYA23",
+      "https://s.shopee.vn/W8Dw6ds4m",
+      "https://s.shopee.vn/LonjneVPl",
+      "https://s.shopee.vn/BVNXUf8kk",
+      "https://s.shopee.vn/1BxLBfm5j",
+      "https://s.shopee.vn/1BNujKbKiy",
+      "https://s.shopee.vn/114UX1by3x",
+      "https://s.shopee.vn/ql4KicbOw",
+      "https://s.shopee.vn/gRe8PdEjv",
+      "https://s.shopee.vn/4VeMhSOdxg",
+      "https://s.shopee.vn/4LKwV9PHIf",
+      "https://s.shopee.vn/4B1WIqPude",
+      "https://s.shopee.vn/40i66XQXyd",
+      "https://s.shopee.vn/5Au3UgM6bs",
+      "https://s.shopee.vn/50adINMjwr",
+      "https://s.shopee.vn/4qHD64NNHq",
+      "https://s.shopee.vn/4fxmtlO0cp",
+      "https://s.shopee.vn/3B8z70TifY",
+      "https://s.shopee.vn/30pYuhUM0X",
+      "https://s.shopee.vn/2qW8iOUzLW",
+      "https://s.shopee.vn/2gCiW5VcgV",
+      "https://s.shopee.vn/3qOfuERBJk",
+      "https://s.shopee.vn/3g5FhvRoej",
+      "https://s.shopee.vn/3VlpVcSRzi",
+      "https://s.shopee.vn/3LSPJJT5Kh",
+      "https://s.shopee.vn/70Lhg3F7tQ",
+      "https://s.shopee.vn/7Af7sMEUYT",
+      "https://s.shopee.vn/6firHRGOZO",
+      "https://s.shopee.vn/6q2HTkFlER",
+      "https://s.shopee.vn/7fbOTHCaXc",
+      "https://s.shopee.vn/7puofaBxCf",
+      "https://s.shopee.vn/7KyY4fDrDa",
+      "https://s.shopee.vn/7VHyGyDDsd",
+      "https://s.shopee.vn/5fqK5bKCbI",
+      "https://s.shopee.vn/5q9kHuJZGL",
+      "https://s.shopee.vn/5LDTgzLTHG",
+      "https://s.shopee.vn/5VWttIKpwJ",
+      "https://s.shopee.vn/6L60spHfFU",
+      "https://s.shopee.vn/6VPR58H1uX",
+      "https://s.shopee.vn/60TAUDIvvS",
+      "https://s.shopee.vn/6AmagWIIaV",
+      "https://s.shopee.vn/9fMSqx4yUC",
+      "https://s.shopee.vn/9pft3G4L9F",
+      "https://s.shopee.vn/9KjcSL6FAA",
+      "https://s.shopee.vn/9V32ee5bpD",
+      "https://s.shopee.vn/AKc9eB2R8O",
+      "https://s.shopee.vn/AUvZqU1nnR",
+      "https://s.shopee.vn/9zzJFZ3hoM",
+      "https://s.shopee.vn/AAIjRs34TP",
+      "https://s.shopee.vn/8Kr5GVA3C4",
+      "https://s.shopee.vn/8VAVSo9Pr7",
+      "https://s.shopee.vn/80EErtBJs2",
+      "https://s.shopee.vn/8AXf4CAgX5",
+      "https://s.shopee.vn/906m3j7VqG",
+      "https://s.shopee.vn/9AQCG26sVJ",
+      "https://s.shopee.vn/8fTvf78mWE",
+      "https://s.shopee.vn/8pnLrQ89BH",
+      "https://s.shopee.vn/1gKBKFZQiu",
+      "https://s.shopee.vn/1qdbWYYnNx",
+      "https://s.shopee.vn/1LhKvdahOs",
+      "https://s.shopee.vn/1W0l7wa43v",
+      "https://s.shopee.vn/2LZs7TWtN6"
+    ],
+    "images": [
+      {
+        "file": "1794485909347_551725978125762976_5252262472989836779_c7f95d633da5e8d60cee20dc7ca0c2fa.jpg",
+        "url": "",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794485909372_551725978125762976_5252262472989836779_ab84824332fb9f2124dc6536378687f2.jpg",
+        "url": "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794485909398_551725978125762976_5252262472989836779_3fb552bd42d81cc4755e631487236b21.jpg",
+        "url": "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794485909407_551725978125762976_5252262472989836779_400fb8a025c4a416f7e7815f6d248466.jpg",
+        "url": "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794485909418_551725978125762976_5252262472989836779_27e276b25e57ec395fb64e315b6b7029.jpg",
+        "url": "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794485909433_551725978125762976_5252262472989836779_fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "url": "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794501814678_551725978125762976_5252262472989836779_8045df701bdeb9f198259d2442be49a7.jpg",
+        "url": "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794501829762_551725978125762976_5252262472989836779_236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "url": "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794501956232_551725978125762976_5252262472989836779_b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "url": "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794501956250_551725978125762976_5252262472989836779_e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "url": "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794501956263_551725978125762976_5252262472989836779_37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "url": "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794501985847_551725978125762976_5252262472989836779_eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "url": "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794501997586_551725978125762976_5252262472989836779_24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "url": "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794502028515_551725978125762976_5252262472989836779_e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "url": "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794502048411_551725978125762976_5252262472989836779_fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "url": "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "added": "2026-11-18"
+      },
+      {
+        "file": "1794502082165_551725978125762976_5252262472989836779_3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "url": "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "added": "2026-11-18"
+      }
+    ],
+    "link_deck": [
+      "https://s.shopee.vn/8fTveDRHI2",
+      "https://s.shopee.vn/3qOftKjg5Y",
+      "https://s.shopee.vn/80EErtBJr1",
+      "https://s.shopee.vn/6firHLsI8d",
+      "https://s.shopee.vn/4LKwUFhm4b",
+      "https://s.shopee.vn/3g5FhvRoej",
+      "https://s.shopee.vn/5fqK4hchMD",
+      "https://s.shopee.vn/3qOfu934t6",
+      "https://s.shopee.vn/8AXf3ITBJ1",
+      "https://s.shopee.vn/AAIjQyLZEA",
+      "https://s.shopee.vn/gRe8PdEjv",
+      "https://s.shopee.vn/1W0l72sYpr",
+      "https://s.shopee.vn/W8DvCwMqi",
+      "https://s.shopee.vn/8Kr5GPlwkX",
+      "https://s.shopee.vn/6L60sjtYpM",
+      "https://s.shopee.vn/9zzJFZ3hoM",
+      "https://s.shopee.vn/114UW7uSpl",
+      "https://s.shopee.vn/9pft2MMpvB",
+      "https://s.shopee.vn/3g5Fhq3iF6",
+      "https://s.shopee.vn/7Af7sGqO7g",
+      "https://s.shopee.vn/8fTvf78mWE",
+      "https://s.shopee.vn/AUvZqOdhM0",
+      "https://s.shopee.vn/AKc9eB2R8O",
+      "https://s.shopee.vn/4qHD64NNHq",
+      "https://s.shopee.vn/5Au3TmebNg",
+      "https://s.shopee.vn/AAIjRmey31",
+      "https://s.shopee.vn/7VHyGyDDsd",
+      "https://s.shopee.vn/ql4Jov6Bn",
+      "https://s.shopee.vn/4LKwV41AsP",
+      "https://s.shopee.vn/9AQCF8PNH7",
+      "https://s.shopee.vn/3B8z70TifY",
+      "https://s.shopee.vn/7puofUnqlk",
+      "https://s.shopee.vn/70Lhf9XcfM",
+      "https://s.shopee.vn/2qW8hUnU7S",
+      "https://s.shopee.vn/9fMSqrgs3w",
+      "https://s.shopee.vn/4B1WIqPude",
+      "https://s.shopee.vn/906m2pQ0c4",
+      "https://s.shopee.vn/20x1hxqeos",
+      "https://s.shopee.vn/LonjneVPl",
+      "https://s.shopee.vn/5q9kHuJZGL",
+      "https://s.shopee.vn/AKc9eB2R7N",
+      "https://s.shopee.vn/6firHLsI9e",
+      "https://s.shopee.vn/8Kr5FbSXy0",
+      "https://s.shopee.vn/5q9kH0c41E",
+      "https://s.shopee.vn/9V32eYhVOx",
+      "https://s.shopee.vn/8fTvf1kg4Z",
+      "https://s.shopee.vn/30pYuc6Fb2",
+      "https://s.shopee.vn/5LDTg5dy2B",
+      "https://s.shopee.vn/4qHD5Afs3e",
+      "https://s.shopee.vn/8AXf4CAgW2",
+      "https://s.shopee.vn/6firHRGOZO",
+      "https://s.shopee.vn/AKc9e5eKi0",
+      "https://s.shopee.vn/4B1WHqzPG8",
+      "https://s.shopee.vn/4VeMgYh8jc",
+      "https://s.shopee.vn/3g5Fgw1JH9",
+      "https://s.shopee.vn/20x1irYA23",
+      "https://s.shopee.vn/9AQCG26sUG",
+      "https://s.shopee.vn/1W0l72sYoo",
+      "https://s.shopee.vn/Lonitx0Bh",
+      "https://s.shopee.vn/3qOfu934u9",
+      "https://s.shopee.vn/1LhKujtC9n",
+      "https://s.shopee.vn/1W0l7rBxd8",
+      "https://s.shopee.vn/60TATJbQhG",
+      "https://s.shopee.vn/5LDTgzLTGF",
+      "https://s.shopee.vn/6AmagQuC9K",
+      "https://s.shopee.vn/8pnLrKk2kd",
+      "https://s.shopee.vn/8AXf3ITBHy",
+      "https://s.shopee.vn/8VAVRuRuc0",
+      "https://s.shopee.vn/3VlpUikwlW",
+      "https://s.shopee.vn/7VHyGyDDra",
+      "https://s.shopee.vn/2BGRuGq1Tv",
+      "https://s.shopee.vn/9AQCFwim4f",
+      "https://s.shopee.vn/9zzJEfMCZ9",
+      "https://s.shopee.vn/1W0l6x9Yfs",
+      "https://s.shopee.vn/5LDTgtxMqF",
+      "https://s.shopee.vn/2gCiVBo7SR",
+      "https://s.shopee.vn/2gCiW5VcgV",
+      "https://s.shopee.vn/5q9kHovSpI",
+      "https://s.shopee.vn/ql4Jov6Ak",
+      "https://s.shopee.vn/7VHyGsp7Ri",
+      "https://s.shopee.vn/8pnLqWQdw2",
+      "https://s.shopee.vn/9V32eYhVNu",
+      "https://s.shopee.vn/6AmagQuCAN",
+      "https://s.shopee.vn/6AmafcanLG",
+      "https://s.shopee.vn/2VtIIsokmu",
+      "https://s.shopee.vn/7KyY4fDrCZ",
+      "https://s.shopee.vn/AUvZpaKIYC",
+      "https://s.shopee.vn/60TAUDIvuR",
+      "https://s.shopee.vn/1gKBKFZQht",
+      "https://s.shopee.vn/1gKBKABKI9",
+      "https://s.shopee.vn/3LSPJJT5Kh",
+      "https://s.shopee.vn/50adHNwEZH",
+      "https://s.shopee.vn/1qdbVerI9t",
+      "https://s.shopee.vn/8pnLqWQdx5",
+      "https://s.shopee.vn/6VPR4EZWfI",
+      "https://s.shopee.vn/9KjcSFi8ju",
+      "https://s.shopee.vn/4fxmslxVFB",
+      "https://s.shopee.vn/3B8z66mDRU",
+      "https://s.shopee.vn/5fqK5Vw6BI",
+      "https://s.shopee.vn/3qOftF0fwA",
+      "https://s.shopee.vn/60TAU7upUJ",
+      "https://s.shopee.vn/AAIjRs34TP",
+      "https://s.shopee.vn/AKc9e5eKgz",
+      "https://s.shopee.vn/906m3j7VqG",
+      "https://s.shopee.vn/3g5Fhq3iE5",
+      "https://s.shopee.vn/8fTvf78mVD",
+      "https://s.shopee.vn/40i65dj2kZ",
+      "https://s.shopee.vn/9zzJEfMCaA",
+      "https://s.shopee.vn/8Kr5GVA3B3",
+      "https://s.shopee.vn/8pnLrQ89BH",
+      "https://s.shopee.vn/7puofaBxBc",
+      "https://s.shopee.vn/6q2HTkFlDO",
+      "https://s.shopee.vn/8VAVSilJPY",
+      "https://s.shopee.vn/3g5Fh1kJQX",
+      "https://s.shopee.vn/5Au3UgM6bs",
+      "https://s.shopee.vn/7puoegURyT",
+      "https://s.shopee.vn/1LhKvdahOs",
+      "https://s.shopee.vn/1gKBJLrvTp",
+      "https://s.shopee.vn/60TATJbQgF",
+      "https://s.shopee.vn/LonjiGOzl",
+      "https://s.shopee.vn/4fxmtfzuCR",
+      "https://s.shopee.vn/6L60sjtYoL",
+      "https://s.shopee.vn/5VWtsOdKhC",
+      "https://s.shopee.vn/1BNuiQtpVp",
+      "https://s.shopee.vn/8AXf4CAgX5",
+      "https://s.shopee.vn/1W0l7wa43v",
+      "https://s.shopee.vn/3VlpUd1wc4",
+      "https://s.shopee.vn/2LZs7TWtN6",
+      "https://s.shopee.vn/8Kr5GPlwlY",
+      "https://s.shopee.vn/9fMSq3NTG8",
+      "https://s.shopee.vn/60TAU7upVK",
+      "https://s.shopee.vn/1BNujFDEIq",
+      "https://s.shopee.vn/8fTvf1kg5a",
+      "https://s.shopee.vn/5Au3Uay0BU",
+      "https://s.shopee.vn/50adINMjwr",
+      "https://s.shopee.vn/60TAUDIvvS",
+      "https://s.shopee.vn/AAIjRs34SM",
+      "https://s.shopee.vn/5LDTgzLTHG",
+      "https://s.shopee.vn/1gKBJLrvUq",
+      "https://s.shopee.vn/5q9kHovSqL",
+      "https://s.shopee.vn/2VtIIsoknx",
+      "https://s.shopee.vn/9fMSqx4yTB",
+      "https://s.shopee.vn/70Lhg3F7tQ",
+      "https://s.shopee.vn/80EErnnDRW",
+      "https://s.shopee.vn/1BxKHyGrf",
+      "https://s.shopee.vn/6firHRGOYN",
+      "https://s.shopee.vn/906m3djPPc",
+      "https://s.shopee.vn/5LDTgtxMrG",
+      "https://s.shopee.vn/3LSPIK2Zx3",
+      "https://s.shopee.vn/AKc9dHKvtB",
+      "https://s.shopee.vn/1W0l7wa42s",
+      "https://s.shopee.vn/gRe7VvjVj",
+      "https://s.shopee.vn/2BGRuGq1Ss",
+      "https://s.shopee.vn/2VtIIn5ke2",
+      "https://s.shopee.vn/AKc9dHKvuC",
+      "https://s.shopee.vn/1qdbVZ8Hzy",
+      "https://s.shopee.vn/9KjcRROjv5",
+      "https://s.shopee.vn/1qdbVerI8q",
+      "https://s.shopee.vn/9zzJFTfbMx",
+      "https://s.shopee.vn/9V32ee5boA",
+      "https://s.shopee.vn/50adHTfEif",
+      "https://s.shopee.vn/ql4KdEUyo",
+      "https://s.shopee.vn/6q2HTereoh",
+      "https://s.shopee.vn/9V32dkO6a6",
+      "https://s.shopee.vn/2BGRuB71Jw",
+      "https://s.shopee.vn/gRe8KF8Jn",
+      "https://s.shopee.vn/7Af7sGqO8j",
+      "https://s.shopee.vn/2BGRvAXWh4",
+      "https://s.shopee.vn/4B1WHwiPPa",
+      "https://s.shopee.vn/2qW8hP4Ty0",
+      "https://s.shopee.vn/7KyY4fDrDa",
+      "https://s.shopee.vn/6AmagWIIaV",
+      "https://s.shopee.vn/5VWttIKpvG",
+      "https://s.shopee.vn/9pft3AgEhw",
+      "https://s.shopee.vn/9V32ee5bpD",
+      "https://s.shopee.vn/6AmafcanMJ",
+      "https://s.shopee.vn/2qW8iOUzLW",
+      "https://s.shopee.vn/9V32dkO6b9",
+      "https://s.shopee.vn/9zzJFTfbNy",
+      "https://s.shopee.vn/8VAVSilJQb",
+      "https://s.shopee.vn/6q2HSqYG0N",
+      "https://s.shopee.vn/1LhKueAC0r",
+      "https://s.shopee.vn/906m3djPOb",
+      "https://s.shopee.vn/2LZs6U6Nz1",
+      "https://s.shopee.vn/BVNXUf8kk",
+      "https://s.shopee.vn/40i66S2RYN",
+      "https://s.shopee.vn/9KjcRROjw6",
+      "https://s.shopee.vn/2LZs6ZpO7t",
+      "https://s.shopee.vn/20x1imA3cB",
+      "https://s.shopee.vn/4fxmtlO0cp",
+      "https://s.shopee.vn/6L60spHfET",
+      "https://s.shopee.vn/3qOfuERBJk",
+      "https://s.shopee.vn/W8Dw6ds4m",
+      "https://s.shopee.vn/6firGXYtLK",
+      "https://s.shopee.vn/AUvZqU1nmO",
+      "https://s.shopee.vn/8pnLrKk2ja",
+      "https://s.shopee.vn/5q9kH0c42H",
+      "https://s.shopee.vn/9pft3G4L9F",
+      "https://s.shopee.vn/3VlpVX4La7",
+      "https://s.shopee.vn/6VPR52svUP",
+      "https://s.shopee.vn/7KyY4Zpkmh",
+      "https://s.shopee.vn/5fqK4hchNE",
+      "https://s.shopee.vn/AUvZqOdhN3",
+      "https://s.shopee.vn/AUvZqU1nnR",
+      "https://s.shopee.vn/9fMSqx4yUC",
+      "https://s.shopee.vn/1qdbWTAgxA",
+      "https://s.shopee.vn/5q9kHuJZFI",
+      "https://s.shopee.vn/9AQCG26sVJ",
+      "https://s.shopee.vn/3LSPJE4yu3",
+      "https://s.shopee.vn/6VPR58H1uX",
+      "https://s.shopee.vn/3LSPIPla6V",
+      "https://s.shopee.vn/3VlpVcSRzi",
+      "https://s.shopee.vn/7KyY4Zpkni",
+      "https://s.shopee.vn/4VeMgSy8aE",
+      "https://s.shopee.vn/1LhKujtCAo",
+      "https://s.shopee.vn/6q2HTerene",
+      "https://s.shopee.vn/6L60spHfFU",
+      "https://s.shopee.vn/80EEqzTody",
+      "https://s.shopee.vn/BVNXPH2Kk",
+      "https://s.shopee.vn/5fqK5Vw6AH",
+      "https://s.shopee.vn/906m3j7VpF",
+      "https://s.shopee.vn/5fqK5bKCaH",
+      "https://s.shopee.vn/1gKBKFZQiu",
+      "https://s.shopee.vn/6L60rvaA0H",
+      "https://s.shopee.vn/30pYtnmqmT",
+      "https://s.shopee.vn/2BGRv59QHC",
+      "https://s.shopee.vn/3B8z6v5cF2",
+      "https://s.shopee.vn/114UWwDrdp",
+      "https://s.shopee.vn/5fqK5bKCbI",
+      "https://s.shopee.vn/9fMSqrgs2v",
+      "https://s.shopee.vn/2gCiV657Iz",
+      "https://s.shopee.vn/9zzJFZ3hnL",
+      "https://s.shopee.vn/AAIjQyLZFD",
+      "https://s.shopee.vn/4VeMhSOdxg",
+      "https://s.shopee.vn/50adIHydWT",
+      "https://s.shopee.vn/5VWttCwjWJ",
+      "https://s.shopee.vn/30pYti3qd5",
+      "https://s.shopee.vn/1BxLBfm5j",
+      "https://s.shopee.vn/70Lhg3F7sP",
+      "https://s.shopee.vn/80EErtBJs2",
+      "https://s.shopee.vn/2LZs7TWtM5",
+      "https://s.shopee.vn/9KjcSL6FAA",
+      "https://s.shopee.vn/3B8z613DI6",
+      "https://s.shopee.vn/8AXf46ma6Z",
+      "https://s.shopee.vn/AUvZpaKIZF",
+      "https://s.shopee.vn/4LKwV9PHIf",
+      "https://s.shopee.vn/1qdbWYYnMu",
+      "https://s.shopee.vn/80EEqzTocx",
+      "https://s.shopee.vn/70Lhfxr1Tg",
+      "https://s.shopee.vn/30pYuc6Fa1",
+      "https://s.shopee.vn/7VHyGsp7Sl",
+      "https://s.shopee.vn/AAIjRmey1y",
+      "https://s.shopee.vn/6VPR52svTM",
+      "https://s.shopee.vn/4B1WIl1oDO",
+      "https://s.shopee.vn/3LSPJE4yv4",
+      "https://s.shopee.vn/9KjcSFi8it",
+      "https://s.shopee.vn/6q2HTkFlER",
+      "https://s.shopee.vn/1BNuiQtpUm",
+      "https://s.shopee.vn/114UX1by3x",
+      "https://s.shopee.vn/7puofUnqmn",
+      "https://s.shopee.vn/ql4KicbOw",
+      "https://s.shopee.vn/2VtIJh89bE",
+      "https://s.shopee.vn/2qW8iJ6sv0",
+      "https://s.shopee.vn/2VtIJmWG16",
+      "https://s.shopee.vn/5Au3TgvbEI",
+      "https://s.shopee.vn/8VAVSo9Pq4",
+      "https://s.shopee.vn/7VHyG4VieR",
+      "https://s.shopee.vn/5VWttCwjVG",
+      "https://s.shopee.vn/gRe7VvjWk",
+      "https://s.shopee.vn/8Kr5FbSXwz",
+      "https://s.shopee.vn/9AQCF8PNG4",
+      "https://s.shopee.vn/7fbOTHCaXc",
+      "https://s.shopee.vn/7fbOTBoU7k",
+      "https://s.shopee.vn/7fbOTHCaWb",
+      "https://s.shopee.vn/9fMSq3NTF7",
+      "https://s.shopee.vn/BVNWaxdWg",
+      "https://s.shopee.vn/7puofaBxCf",
+      "https://s.shopee.vn/2gCiW07WFz",
+      "https://s.shopee.vn/1BNujKbKiy",
+      "https://s.shopee.vn/7Af7rSWzKP",
+      "https://s.shopee.vn/8Kr5GVA3C4",
+      "https://s.shopee.vn/6VPR4EZWgL",
+      "https://s.shopee.vn/7KyY3lWLzO",
+      "https://s.shopee.vn/6L60rvaA1I",
+      "https://s.shopee.vn/4fxmsrgVOd",
+      "https://s.shopee.vn/8VAVSo9Pr7",
+      "https://s.shopee.vn/4qHD54wruC",
+      "https://s.shopee.vn/40i66XQXyd",
+      "https://s.shopee.vn/906m2pQ0b3",
+      "https://s.shopee.vn/6VPR58H1tU",
+      "https://s.shopee.vn/4qHD5yzGrS",
+      "https://s.shopee.vn/7fbOSNV5JQ",
+      "https://s.shopee.vn/2LZs7O8mwD",
+      "https://s.shopee.vn/40i65Y02b7",
+      "https://s.shopee.vn/80EErnnDQV",
+      "https://s.shopee.vn/114UW7uSqm",
+      "https://s.shopee.vn/4VeMhN0XXQ",
+      "https://s.shopee.vn/6AmagWIIZS",
+      "https://s.shopee.vn/8pnLrQ89AE",
+      "https://s.shopee.vn/9KjcSL6F99",
+      "https://s.shopee.vn/2LZs6ZpO8u",
+      "https://s.shopee.vn/5VWttIKpwJ",
+      "https://s.shopee.vn/1LhKvYCay7",
+      "https://s.shopee.vn/9pft2MMpu8",
+      "https://s.shopee.vn/3VlpVX4LZ4",
+      "https://s.shopee.vn/W8Dw1Flem",
+      "https://s.shopee.vn/20x1hxqenr",
+      "https://s.shopee.vn/5VWtsOdKiF",
+      "https://s.shopee.vn/8fTveDRHH1",
+      "https://s.shopee.vn/30pYuhUM0X",
+      "https://s.shopee.vn/4LKwU9ylvD",
+      "https://s.shopee.vn/70Lhfxr1Sf",
+      "https://s.shopee.vn/7Af7sMEUYT",
+      "https://s.shopee.vn/1qdbWYYnNx",
+      "https://s.shopee.vn/8AXf46ma5W",
+      "https://s.shopee.vn/9pft3G4L8C",
+      "https://s.shopee.vn/5LDTg5dy3C",
+      "https://s.shopee.vn/1LhKvdahNr",
+      "https://s.shopee.vn/9pft3AgEiz",
+      "https://s.shopee.vn/8VAVRuRud3",
+      "https://s.shopee.vn/20x1hs7eev",
+      "https://s.shopee.vn/1BxL6Hffj",
+      "https://s.shopee.vn/7fbOTBoU6j"
+    ],
+    "link_cursor": 160,
+    "image_deck": [
+      "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+      "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+      "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+      "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+      "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+      "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+      "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+      "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+      "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+      "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+      "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+      "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+      "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+      "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+      "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+    ],
+    "image_cursor": 12
+  },
+  "templates": [
+    {
+      "id": "t01",
+      "theme": "san_sale",
+      "text": "Săn sale {không cần|chẳng phải} thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: {link}\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "enabled": true
+    },
+    {
+      "id": "t02",
+      "theme": "san_sale",
+      "text": "Ba thứ nên chuẩn bị trước khi bấm “Mua ngay”:\n1. Món đồ thật sự cần\n2. Mã giảm giá\n3. Một chút bình tĩnh 😆\nThiếu cái số 2 là dễ mất tiền oan nhất.\nMã 100K đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t03",
+      "theme": "san_sale",
+      "text": "Sự thật hơi đau: đợi đến ngày sale mới đi tìm mã thì thường… hết mã 😭\nChuẩn bị trước một phút, tiết kiệm cả trăm nghìn.\nAi cần mã 100K thì lấy ở đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t04",
+      "theme": "san_sale",
+      "text": "Ví mỏng không phải cái tội, mua đắt mới là tội 😌\nCùng shop, cùng sản phẩm, khác nhau đúng một cái mã giảm giá.\nMình để mã 100K ở đây, ai nhanh được: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t05",
+      "theme": "san_sale",
+      "text": "Đừng mua 10 món rẻ, hãy mua 3 món thật cần.\nNhưng nếu 3 món đó có mã giảm 100K thì… càng nên mua 😄\nMã đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t06",
+      "theme": "san_sale",
+      "text": "Mấy đứa hay khoe “mua rẻ hơn bạn” không giỏi mặc cả đâu, tụi nó chỉ có sẵn mã 🤫\nMã 100K đơn đầu, dùng là trừ luôn, không điều kiện rườm rà.\n{link}",
+      "enabled": true
+    },
+    {
+      "id": "t07",
+      "theme": "san_sale",
+      "text": "Tháng này bạn đã dùng mã giảm giá nào chưa?\nNếu chưa thì đây là dấu hiệu bạn đang chi tiêu hơi phóng khoáng 😌\nMã 100K cho đơn đầu: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t08",
+      "theme": "san_sale",
+      "text": "Người khôn ngoan không chờ sale, họ chuẩn bị mã trước ngày sale.\nMình chuẩn bị sẵn rồi, phần bạn là bấm vào đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t09",
+      "theme": "meo",
+      "text": "Mẹo nhỏ mà tiết kiệm thật: trước khi thanh toán, luôn bấm vào ô “mã giảm giá”.\nNhiều shop để mã ẩn ở đó, không bấm là mất.\nMình có sẵn mã 100K cho bạn: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t10",
+      "theme": "meo",
+      "text": "Cách mình giảm 30% hoá đơn mỗi tháng:\n1. Bỏ đồ vào giỏ, đợi đúng ngày sale\n2. Săn mã trước giờ G\n3. Không mua gì ngoài danh sách\nBước 2 khó nhất, nên mình để mã sẵn đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t11",
+      "theme": "meo",
+      "text": "Mua online mà không dùng mã giảm giá thì giống đi chợ mà không trả giá vậy đó 😅\n{link}",
+      "enabled": true
+    },
+    {
+      "id": "t12",
+      "theme": "meo",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t13",
+      "theme": "meo",
+      "text": "Đừng để đồ trong giỏ quá 3 ngày.\nKhông phải vì shop hết hàng, mà vì bạn sẽ quên mất mình đã có mã giảm giá 😌\n{link}",
+      "enabled": true
+    },
+    {
+      "id": "t14",
+      "theme": "meo",
+      "text": "Quy tắc 24h của mình: món gì sau 24h vẫn thấy cần thì mua kèm mã.\nMón gì quên luôn thì đã tiết kiệm được 100%.\nMón cần thật thì đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t15",
+      "theme": "ma_giam_gia",
+      "text": "Mã 100K đơn đầu tiên, ai chưa dùng thì phí lắm.\nÁp vào là trừ thẳng vào đơn, không cần đợi sale.\nLấy tại: {link}\nMình không giữ được lâu đâu nha.",
+      "enabled": true
+    },
+    {
+      "id": "t16",
+      "theme": "ma_giam_gia",
+      "text": "Hỏi thật: lần cuối bạn được giảm giá 100K là khi nào?\nNếu không nhớ nổi thì thử cái này xem: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t17",
+      "theme": "ma_giam_gia",
+      "text": "Không phải cứ chờ 11/11 mới rẻ.\nNgày thường + đúng mã = vẫn rẻ hơn sale.\nMã đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t18",
+      "theme": "ma_giam_gia",
+      "text": "Mình vừa tiết kiệm được 100K chỉ vì bấm vào một chỗ.\nChỗ đó đây: {link}\nBạn thử xem còn không, nhanh tay nha.",
+      "enabled": true
+    },
+    {
+      "id": "t19",
+      "theme": "ma_giam_gia",
+      "text": "Nếu bạn đang định mua gì đó trên Shopee, dừng lại 10 giây.\nÁp mã trước đã.\nMã 100K: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t20",
+      "theme": "tuong_tac",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t21",
+      "theme": "tuong_tac",
+      "text": "Team “thêm vào giỏ rồi để đó” điểm danh 🙋\nBạn đang giữ bao nhiêu món trong giỏ?\nMình vừa dọn giỏ và tiết kiệm được 100K nhờ cái này: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t22",
+      "theme": "tuong_tac",
+      "text": "Chuyện buồn nhất của người mua online:\nĐợi 3 ngày sale, đến giờ G thì… quên áp mã.\nĐừng như mình. Mã đây: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t23",
+      "theme": "tuong_tac",
+      "text": "Bạn thuộc kiểu người nào?\nA. Thấy sale là mua\nB. Bỏ giỏ rồi quên\nC. Săn mã trước rồi mới mua\nTeam C comment “1” để mình gửi mã cho: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t24",
+      "theme": "tuong_tac",
+      "text": "Món đồ bạn mua nhiều lần nhất trên Shopee là gì?\nMình là… mã giảm giá 😆 Rẻ mà lần nào cũng có lời.\n{link}",
+      "enabled": true
+    },
+    {
+      "id": "t25",
+      "theme": "tuong_tac",
+      "text": "Cuối tuần rồi, dọn giỏ hàng thôi.\nNhớ áp mã trước khi thanh toán nha, đừng để mất tiền oan.\nMã 100K: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t26",
+      "theme": "review",
+      "text": "Review thật: tháng trước mình mua 5 đơn, đơn nào cũng áp mã.\nTổng tiết kiệm gần 400K, đủ đi ăn một bữa ngon 😌\nBí quyết chỉ có một: có mã trước khi mua. {link}",
+      "enabled": true
+    },
+    {
+      "id": "t27",
+      "theme": "review",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\n{link}",
+      "enabled": true
+    },
+    {
+      "id": "t28",
+      "theme": "review",
+      "text": "Món mình mua nhiều nhất tháng này: đồ gia dụng nhỏ.\nCái nào cũng có mã, cái nào cũng rẻ hơn giá hiển thị.\nLink lấy mã: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t29",
+      "theme": "hoan_tien",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: {link}",
+      "enabled": true
+    },
+    {
+      "id": "t30",
+      "theme": "hoan_tien",
+      "text": "Tiền không tự sinh ra, nhưng có thể ở lại trong ví lâu hơn nếu bạn biết áp mã.\n{link}",
+      "enabled": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "e47d280c9084",
+      "text": "Team “thêm vào giỏ rồi để đó” điểm danh 🙋\nBạn đang giữ bao nhiêu món trong giỏ?\nMình vừa dọn giỏ và tiết kiệm được 100K nhờ cái này: https://s.shopee.vn/AUvZqOdhM0",
+      "link": "https://s.shopee.vn/AUvZqOdhM0",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t21",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-18T17:45:00",
+      "status": "published",
+      "attempts": 1,
+      "last_error": "",
+      "published_id": "17966170767212446",
+      "created_at": "2026-11-18T15:20:01",
+      "published_at": "2026-11-18T17:45:50"
+    },
+    {
+      "id": "683154e79dc7",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/AKc9eB2R8O",
+      "link": "https://s.shopee.vn/AKc9eB2R8O",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-18T20:52:00",
+      "status": "published",
+      "attempts": 1,
+      "last_error": "",
+      "published_id": "17890328553488155",
+      "created_at": "2026-11-18T15:20:01",
+      "published_at": "2026-11-18T21:33:51"
+    },
+    {
+      "id": "6bac7b2f41fc",
+      "text": "Người khôn ngoan không chờ sale, họ chuẩn bị mã trước ngày sale.\nMình chuẩn bị sẵn rồi, phần bạn là bấm vào đây: https://s.shopee.vn/4qHD64NNHq",
+      "link": "https://s.shopee.vn/4qHD64NNHq",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t08",
+      "theme": "san_sale",
+      "run_at": "2026-11-19T07:12:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:20:01"
+    },
+    {
+      "id": "a2bfe29ab4fd",
+      "text": "Cách mình giảm 30% hoá đơn mỗi tháng:\n1. Bỏ đồ vào giỏ, đợi đúng ngày sale\n2. Săn mã trước giờ G\n3. Không mua gì ngoài danh sách\nBước 2 khó nhất, nên mình để mã sẵn đây: https://s.shopee.vn/5Au3TmebNg",
+      "link": "https://s.shopee.vn/5Au3TmebNg",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t10",
+      "theme": "meo",
+      "run_at": "2026-11-19T11:33:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:20:01"
+    },
+    {
+      "id": "1970ec0528ab",
+      "text": "Người khôn ngoan không chờ sale, họ chuẩn bị mã trước ngày sale.\nMình chuẩn bị sẵn rồi, phần bạn là bấm vào đây: https://s.shopee.vn/AAIjRmey31",
+      "link": "https://s.shopee.vn/AAIjRmey31",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t08",
+      "theme": "san_sale",
+      "run_at": "2026-11-19T17:43:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:20:01"
+    },
+    {
+      "id": "45ebda958423",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/7VHyGyDDsd",
+      "link": "https://s.shopee.vn/7VHyGyDDsd",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-19T20:50:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:20:01"
+    },
+    {
+      "id": "77064138aa13",
+      "text": "Săn sale không cần thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: https://s.shopee.vn/ql4Jov6Bn\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "link": "https://s.shopee.vn/ql4Jov6Bn",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t01",
+      "theme": "san_sale",
+      "run_at": "2026-11-19T21:02:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:20:16"
+    },
+    {
+      "id": "13fb269fb693",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: https://s.shopee.vn/4LKwV41AsP",
+      "link": "https://s.shopee.vn/4LKwV41AsP",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t12",
+      "theme": "meo",
+      "run_at": "2026-11-19T07:31:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:20:31"
+    },
+    {
+      "id": "58ee4d556157",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: https://s.shopee.vn/9AQCF8PNH7",
+      "link": "https://s.shopee.vn/9AQCF8PNH7",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t20",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-19T11:53:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:20:31"
+    },
+    {
+      "id": "a7debe35f095",
+      "text": "Ba thứ nên chuẩn bị trước khi bấm “Mua ngay”:\n1. Món đồ thật sự cần\n2. Mã giảm giá\n3. Một chút bình tĩnh 😆\nThiếu cái số 2 là dễ mất tiền oan nhất.\nMã 100K đây: https://s.shopee.vn/3B8z70TifY",
+      "link": "https://s.shopee.vn/3B8z70TifY",
+      "image_urls": [
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t02",
+      "theme": "san_sale",
+      "run_at": "2026-11-18T17:33:00",
+      "status": "published",
+      "attempts": 1,
+      "last_error": "",
+      "published_id": "17901509886398921",
+      "created_at": "2026-11-18T15:21:52",
+      "published_at": "2026-11-18T17:33:51"
+    },
+    {
+      "id": "976549d276c3",
+      "text": "Quy tắc 24h của mình: món gì sau 24h vẫn thấy cần thì mua kèm mã.\nMón gì quên luôn thì đã tiết kiệm được 100%.\nMón cần thật thì đây: https://s.shopee.vn/7puofUnqlk",
+      "link": "https://s.shopee.vn/7puofUnqlk",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t14",
+      "theme": "meo",
+      "run_at": "2026-11-18T20:39:00",
+      "status": "published",
+      "attempts": 1,
+      "last_error": "",
+      "published_id": "18143013559617946",
+      "created_at": "2026-11-18T15:22:19",
+      "published_at": "2026-11-18T21:33:11"
+    },
+    {
+      "id": "15f8dcb937b0",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: https://s.shopee.vn/70Lhf9XcfM",
+      "link": "https://s.shopee.vn/70Lhf9XcfM",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t20",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-18T16:22:00",
+      "status": "published",
+      "attempts": 1,
+      "last_error": "",
+      "published_id": "18019459754748708",
+      "created_at": "2026-11-18T15:22:29",
+      "published_at": "2026-11-18T16:22:42"
+    },
+    {
+      "id": "1c78f91d53b7",
+      "text": "Mã 100K đơn đầu tiên, ai chưa dùng thì phí lắm.\nÁp vào là trừ thẳng vào đơn, không cần đợi sale.\nLấy tại: https://s.shopee.vn/2qW8hUnU7S\nMình không giữ được lâu đâu nha.",
+      "link": "https://s.shopee.vn/2qW8hUnU7S",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t15",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-18T16:22:00",
+      "status": "published",
+      "attempts": 1,
+      "last_error": "",
+      "published_id": "18135412534760872",
+      "created_at": "2026-11-18T15:22:39",
+      "published_at": "2026-11-18T16:23:19"
+    },
+    {
+      "id": "b5e8761f0ed5",
+      "text": "Tiền không tự sinh ra, nhưng có thể ở lại trong ví lâu hơn nếu bạn biết áp mã.\nhttps://s.shopee.vn/9fMSqrgs3w",
+      "link": "https://s.shopee.vn/9fMSqrgs3w",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t30",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-20T07:23:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "db38052344a3",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/4B1WIqPude",
+      "link": "https://s.shopee.vn/4B1WIqPude",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-20T11:41:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "70d3dfc6f2b5",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: https://s.shopee.vn/906m2pQ0c4",
+      "link": "https://s.shopee.vn/906m2pQ0c4",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t29",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-20T17:37:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "783aaf485d57",
+      "text": "Người khôn ngoan không chờ sale, họ chuẩn bị mã trước ngày sale.\nMình chuẩn bị sẵn rồi, phần bạn là bấm vào đây: https://s.shopee.vn/20x1hxqeos",
+      "link": "https://s.shopee.vn/20x1hxqeos",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t08",
+      "theme": "san_sale",
+      "run_at": "2026-11-20T20:48:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "2ced1f102759",
+      "text": "Hỏi thật: lần cuối bạn được giảm giá 100K là khi nào?\nNếu không nhớ nổi thì thử cái này xem: https://s.shopee.vn/LonjneVPl",
+      "link": "https://s.shopee.vn/LonjneVPl",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t16",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-21T08:17:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "80574eab6fe0",
+      "text": "Cách mình giảm 30% hoá đơn mỗi tháng:\n1. Bỏ đồ vào giỏ, đợi đúng ngày sale\n2. Săn mã trước giờ G\n3. Không mua gì ngoài danh sách\nBước 2 khó nhất, nên mình để mã sẵn đây: https://s.shopee.vn/5q9kHuJZGL",
+      "link": "https://s.shopee.vn/5q9kHuJZGL",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t10",
+      "theme": "meo",
+      "run_at": "2026-11-21T11:49:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "3d5054fbe7d4",
+      "text": "Tiền không tự sinh ra, nhưng có thể ở lại trong ví lâu hơn nếu bạn biết áp mã.\nhttps://s.shopee.vn/AKc9eB2R7N",
+      "link": "https://s.shopee.vn/AKc9eB2R7N",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t30",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-21T16:56:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "8ef0ffc73f70",
+      "text": "Tháng này bạn đã dùng mã giảm giá nào chưa?\nNếu chưa thì đây là dấu hiệu bạn đang chi tiêu hơi phóng khoáng 😌\nMã 100K cho đơn đầu: https://s.shopee.vn/6firHLsI9e",
+      "link": "https://s.shopee.vn/6firHLsI9e",
+      "image_urls": [
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t07",
+      "theme": "san_sale",
+      "run_at": "2026-11-21T21:09:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "4a52d5bf7966",
+      "text": "Team “thêm vào giỏ rồi để đó” điểm danh 🙋\nBạn đang giữ bao nhiêu món trong giỏ?\nMình vừa dọn giỏ và tiết kiệm được 100K nhờ cái này: https://s.shopee.vn/8Kr5FbSXy0",
+      "link": "https://s.shopee.vn/8Kr5FbSXy0",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t21",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-22T08:15:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "661eb8427e66",
+      "text": "Không phải cứ chờ 11/11 mới rẻ.\nNgày thường + đúng mã = vẫn rẻ hơn sale.\nMã đây: https://s.shopee.vn/5q9kH0c41E",
+      "link": "https://s.shopee.vn/5q9kH0c41E",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t17",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-22T12:00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "f237ffbaeaf5",
+      "text": "Món mình mua nhiều nhất tháng này: đồ gia dụng nhỏ.\nCái nào cũng có mã, cái nào cũng rẻ hơn giá hiển thị.\nLink lấy mã: https://s.shopee.vn/9V32eYhVOx",
+      "link": "https://s.shopee.vn/9V32eYhVOx",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t28",
+      "theme": "review",
+      "run_at": "2026-11-22T16:56:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "d8dc99e7f91b",
+      "text": "Hỏi thật: lần cuối bạn được giảm giá 100K là khi nào?\nNếu không nhớ nổi thì thử cái này xem: https://s.shopee.vn/8fTvf1kg4Z",
+      "link": "https://s.shopee.vn/8fTvf1kg4Z",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t16",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-22T20:55:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "75be0e0ea88d",
+      "text": "Tháng này bạn đã dùng mã giảm giá nào chưa?\nNếu chưa thì đây là dấu hiệu bạn đang chi tiêu hơi phóng khoáng 😌\nMã 100K cho đơn đầu: https://s.shopee.vn/30pYuc6Fb2",
+      "link": "https://s.shopee.vn/30pYuc6Fb2",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t07",
+      "theme": "san_sale",
+      "run_at": "2026-11-23T07:08:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "e954cd888984",
+      "text": "Không phải cứ chờ 11/11 mới rẻ.\nNgày thường + đúng mã = vẫn rẻ hơn sale.\nMã đây: https://s.shopee.vn/5LDTg5dy2B",
+      "link": "https://s.shopee.vn/5LDTg5dy2B",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t17",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-23T11:52:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "2b8b484a32be",
+      "text": "Đừng mua 10 món rẻ, hãy mua 3 món thật cần.\nNhưng nếu 3 món đó có mã giảm 100K thì… càng nên mua 😄\nMã đây: https://s.shopee.vn/4qHD5Afs3e",
+      "link": "https://s.shopee.vn/4qHD5Afs3e",
+      "image_urls": [
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t05",
+      "theme": "san_sale",
+      "run_at": "2026-11-23T17:32:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "97941f84b0e0",
+      "text": "Mẹo nhỏ mà tiết kiệm thật: trước khi thanh toán, luôn bấm vào ô “mã giảm giá”.\nNhiều shop để mã ẩn ở đó, không bấm là mất.\nMình có sẵn mã 100K cho bạn: https://s.shopee.vn/8AXf4CAgW2",
+      "link": "https://s.shopee.vn/8AXf4CAgW2",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t09",
+      "theme": "meo",
+      "run_at": "2026-11-23T20:49:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "0739f5858862",
+      "text": "Hỏi thật: lần cuối bạn được giảm giá 100K là khi nào?\nNếu không nhớ nổi thì thử cái này xem: https://s.shopee.vn/6firHRGOZO",
+      "link": "https://s.shopee.vn/6firHRGOZO",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t16",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-24T07:13:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "5a08e88e18be",
+      "text": "Ba thứ nên chuẩn bị trước khi bấm “Mua ngay”:\n1. Món đồ thật sự cần\n2. Mã giảm giá\n3. Một chút bình tĩnh 😆\nThiếu cái số 2 là dễ mất tiền oan nhất.\nMã 100K đây: https://s.shopee.vn/AKc9e5eKi0",
+      "link": "https://s.shopee.vn/AKc9e5eKi0",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t02",
+      "theme": "san_sale",
+      "run_at": "2026-11-24T11:55:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "e4611b3abc8b",
+      "text": "Review thật: tháng trước mình mua 5 đơn, đơn nào cũng áp mã.\nTổng tiết kiệm gần 400K, đủ đi ăn một bữa ngon 😌\nBí quyết chỉ có một: có mã trước khi mua. https://s.shopee.vn/4B1WHqzPG8",
+      "link": "https://s.shopee.vn/4B1WHqzPG8",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t26",
+      "theme": "review",
+      "run_at": "2026-11-24T17:51:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "b26dde3c14f9",
+      "text": "Bạn thuộc kiểu người nào?\nA. Thấy sale là mua\nB. Bỏ giỏ rồi quên\nC. Săn mã trước rồi mới mua\nTeam C comment “1” để mình gửi mã cho: https://s.shopee.vn/4VeMgYh8jc",
+      "link": "https://s.shopee.vn/4VeMgYh8jc",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t23",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-24T21:01:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "80b3dd8c849e",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: https://s.shopee.vn/3g5Fgw1JH9",
+      "link": "https://s.shopee.vn/3g5Fgw1JH9",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t29",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-25T07:27:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "fa9a41d0ebe2",
+      "text": "Quy tắc 24h của mình: món gì sau 24h vẫn thấy cần thì mua kèm mã.\nMón gì quên luôn thì đã tiết kiệm được 100%.\nMón cần thật thì đây: https://s.shopee.vn/20x1irYA23",
+      "link": "https://s.shopee.vn/20x1irYA23",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t14",
+      "theme": "meo",
+      "run_at": "2026-11-25T11:41:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "1056fac72263",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: https://s.shopee.vn/9AQCG26sUG",
+      "link": "https://s.shopee.vn/9AQCG26sUG",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t20",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-25T17:40:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "f5f0c73906be",
+      "text": "Săn sale không cần thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: https://s.shopee.vn/1W0l72sYoo\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "link": "https://s.shopee.vn/1W0l72sYoo",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t01",
+      "theme": "san_sale",
+      "run_at": "2026-11-25T20:49:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "2404fd91641c",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/Lonitx0Bh",
+      "link": "https://s.shopee.vn/Lonitx0Bh",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-26T07:26:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "0bad8b9cdec8",
+      "text": "Tháng này bạn đã dùng mã giảm giá nào chưa?\nNếu chưa thì đây là dấu hiệu bạn đang chi tiêu hơi phóng khoáng 😌\nMã 100K cho đơn đầu: https://s.shopee.vn/3qOfu934u9",
+      "link": "https://s.shopee.vn/3qOfu934u9",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t07",
+      "theme": "san_sale",
+      "run_at": "2026-11-26T11:44:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "fc9b7cdd8a82",
+      "text": "Không phải cứ chờ 11/11 mới rẻ.\nNgày thường + đúng mã = vẫn rẻ hơn sale.\nMã đây: https://s.shopee.vn/1LhKujtC9n",
+      "link": "https://s.shopee.vn/1LhKujtC9n",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t17",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-26T17:52:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "78b3f69cd07d",
+      "text": "Quy tắc 24h của mình: món gì sau 24h vẫn thấy cần thì mua kèm mã.\nMón gì quên luôn thì đã tiết kiệm được 100%.\nMón cần thật thì đây: https://s.shopee.vn/1W0l7rBxd8",
+      "link": "https://s.shopee.vn/1W0l7rBxd8",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t14",
+      "theme": "meo",
+      "run_at": "2026-11-26T21:00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "549a80f577d4",
+      "text": "Chuyện buồn nhất của người mua online:\nĐợi 3 ngày sale, đến giờ G thì… quên áp mã.\nĐừng như mình. Mã đây: https://s.shopee.vn/60TATJbQhG",
+      "link": "https://s.shopee.vn/60TATJbQhG",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t22",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-27T07:14:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "ef082eb32141",
+      "text": "Tháng này bạn đã dùng mã giảm giá nào chưa?\nNếu chưa thì đây là dấu hiệu bạn đang chi tiêu hơi phóng khoáng 😌\nMã 100K cho đơn đầu: https://s.shopee.vn/5LDTgzLTGF",
+      "link": "https://s.shopee.vn/5LDTgzLTGF",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t07",
+      "theme": "san_sale",
+      "run_at": "2026-11-27T11:44:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "58c4578759a7",
+      "text": "Bạn thuộc kiểu người nào?\nA. Thấy sale là mua\nB. Bỏ giỏ rồi quên\nC. Săn mã trước rồi mới mua\nTeam C comment “1” để mình gửi mã cho: https://s.shopee.vn/6AmagQuC9K",
+      "link": "https://s.shopee.vn/6AmagQuC9K",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t23",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-27T17:28:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "58889d16d4ef",
+      "text": "Đừng mua 10 món rẻ, hãy mua 3 món thật cần.\nNhưng nếu 3 món đó có mã giảm 100K thì… càng nên mua 😄\nMã đây: https://s.shopee.vn/8pnLrKk2kd",
+      "link": "https://s.shopee.vn/8pnLrKk2kd",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t05",
+      "theme": "san_sale",
+      "run_at": "2026-11-27T20:45:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "fb7167eba303",
+      "text": "Review thật: tháng trước mình mua 5 đơn, đơn nào cũng áp mã.\nTổng tiết kiệm gần 400K, đủ đi ăn một bữa ngon 😌\nBí quyết chỉ có một: có mã trước khi mua. https://s.shopee.vn/8AXf3ITBHy",
+      "link": "https://s.shopee.vn/8AXf3ITBHy",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t26",
+      "theme": "review",
+      "run_at": "2026-11-28T08:09:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "8a510bc92f9d",
+      "text": "Nếu bạn đang định mua gì đó trên Shopee, dừng lại 10 giây.\nÁp mã trước đã.\nMã 100K: https://s.shopee.vn/8VAVRuRuc0",
+      "link": "https://s.shopee.vn/8VAVRuRuc0",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t19",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-28T11:54:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "5e1c183e52db",
+      "text": "Người khôn ngoan không chờ sale, họ chuẩn bị mã trước ngày sale.\nMình chuẩn bị sẵn rồi, phần bạn là bấm vào đây: https://s.shopee.vn/3VlpUikwlW",
+      "link": "https://s.shopee.vn/3VlpUikwlW",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t08",
+      "theme": "san_sale",
+      "run_at": "2026-11-28T16:50:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "e38ef09a1778",
+      "text": "Đừng để đồ trong giỏ quá 3 ngày.\nKhông phải vì shop hết hàng, mà vì bạn sẽ quên mất mình đã có mã giảm giá 😌\nhttps://s.shopee.vn/7VHyGyDDra",
+      "link": "https://s.shopee.vn/7VHyGyDDra",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t13",
+      "theme": "meo",
+      "run_at": "2026-11-28T21:12:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "670f4cab649a",
+      "text": "Mình vừa tiết kiệm được 100K chỉ vì bấm vào một chỗ.\nChỗ đó đây: https://s.shopee.vn/2BGRuGq1Tv\nBạn thử xem còn không, nhanh tay nha.",
+      "link": "https://s.shopee.vn/2BGRuGq1Tv",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t18",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-29T08:11:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "f62dbbddbb94",
+      "text": "Sự thật hơi đau: đợi đến ngày sale mới đi tìm mã thì thường… hết mã 😭\nChuẩn bị trước một phút, tiết kiệm cả trăm nghìn.\nAi cần mã 100K thì lấy ở đây: https://s.shopee.vn/9AQCFwim4f",
+      "link": "https://s.shopee.vn/9AQCFwim4f",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t03",
+      "theme": "san_sale",
+      "run_at": "2026-11-29T11:50:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "0d20b8d1e3dc",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: https://s.shopee.vn/9zzJEfMCZ9",
+      "link": "https://s.shopee.vn/9zzJEfMCZ9",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t29",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-29T17:05:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "51ef67cade42",
+      "text": "Chuyện buồn nhất của người mua online:\nĐợi 3 ngày sale, đến giờ G thì… quên áp mã.\nĐừng như mình. Mã đây: https://s.shopee.vn/1W0l6x9Yfs",
+      "link": "https://s.shopee.vn/1W0l6x9Yfs",
+      "image_urls": [
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t22",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-29T21:09:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "1cdc59e751d8",
+      "text": "Mẹo nhỏ mà tiết kiệm thật: trước khi thanh toán, luôn bấm vào ô “mã giảm giá”.\nNhiều shop để mã ẩn ở đó, không bấm là mất.\nMình có sẵn mã 100K cho bạn: https://s.shopee.vn/5LDTgtxMqF",
+      "link": "https://s.shopee.vn/5LDTgtxMqF",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t09",
+      "theme": "meo",
+      "run_at": "2026-11-30T07:22:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "2995fafe7199",
+      "text": "Món mình mua nhiều nhất tháng này: đồ gia dụng nhỏ.\nCái nào cũng có mã, cái nào cũng rẻ hơn giá hiển thị.\nLink lấy mã: https://s.shopee.vn/2gCiVBo7SR",
+      "link": "https://s.shopee.vn/2gCiVBo7SR",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t28",
+      "theme": "review",
+      "run_at": "2026-11-30T11:37:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "d4d87e1598d8",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: https://s.shopee.vn/2gCiW5VcgV",
+      "link": "https://s.shopee.vn/2gCiW5VcgV",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t12",
+      "theme": "meo",
+      "run_at": "2026-11-30T17:44:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "5c74b57b6189",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: https://s.shopee.vn/5q9kHovSpI",
+      "link": "https://s.shopee.vn/5q9kHovSpI",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t29",
+      "theme": "hoan_tien",
+      "run_at": "2026-12-01T07:22:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "c7248e5e6ed2",
+      "text": "Săn sale không cần thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: https://s.shopee.vn/ql4Jov6Ak\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "link": "https://s.shopee.vn/ql4Jov6Ak",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t01",
+      "theme": "san_sale",
+      "run_at": "2026-12-01T11:49:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "dfa9195bfc16",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: https://s.shopee.vn/7VHyGsp7Ri",
+      "link": "https://s.shopee.vn/7VHyGsp7Ri",
+      "image_urls": [
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t12",
+      "theme": "meo",
+      "run_at": "2026-12-01T17:31:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "effe81d90bc3",
+      "text": "Sự thật hơi đau: đợi đến ngày sale mới đi tìm mã thì thường… hết mã 😭\nChuẩn bị trước một phút, tiết kiệm cả trăm nghìn.\nAi cần mã 100K thì lấy ở đây: https://s.shopee.vn/8pnLqWQdw2",
+      "link": "https://s.shopee.vn/8pnLqWQdw2",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t03",
+      "theme": "san_sale",
+      "run_at": "2026-12-01T20:48:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "d71d3338c810",
+      "text": "Bạn thuộc kiểu người nào?\nA. Thấy sale là mua\nB. Bỏ giỏ rồi quên\nC. Săn mã trước rồi mới mua\nTeam C comment “1” để mình gửi mã cho: https://s.shopee.vn/9V32eYhVNu",
+      "link": "https://s.shopee.vn/9V32eYhVNu",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t23",
+      "theme": "tuong_tac",
+      "run_at": "2026-12-02T07:22:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "38fd1ee2e4f1",
+      "text": "Săn sale chẳng phải thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: https://s.shopee.vn/6AmagQuCAN\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "link": "https://s.shopee.vn/6AmagQuCAN",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t01",
+      "theme": "san_sale",
+      "run_at": "2026-12-02T11:39:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "6438e1a016ae",
+      "text": "Món đồ bạn mua nhiều lần nhất trên Shopee là gì?\nMình là… mã giảm giá 😆 Rẻ mà lần nào cũng có lời.\nhttps://s.shopee.vn/6AmafcanLG",
+      "link": "https://s.shopee.vn/6AmafcanLG",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t24",
+      "theme": "tuong_tac",
+      "run_at": "2026-12-02T17:35:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "cc3767f7d4e0",
+      "text": "Nếu bạn đang định mua gì đó trên Shopee, dừng lại 10 giây.\nÁp mã trước đã.\nMã 100K: https://s.shopee.vn/2VtIIsokmu",
+      "link": "https://s.shopee.vn/2VtIIsokmu",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t19",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-12-02T20:59:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "fae53fac35f8",
+      "text": "Chuyện buồn nhất của người mua online:\nĐợi 3 ngày sale, đến giờ G thì… quên áp mã.\nĐừng như mình. Mã đây: https://s.shopee.vn/7KyY4fDrCZ",
+      "link": "https://s.shopee.vn/7KyY4fDrCZ",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t22",
+      "theme": "tuong_tac",
+      "run_at": "2026-12-03T07:18:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "bc37585e75ff",
+      "text": "Mua online mà không dùng mã giảm giá thì giống đi chợ mà không trả giá vậy đó 😅\nhttps://s.shopee.vn/AUvZpaKIYC",
+      "link": "https://s.shopee.vn/AUvZpaKIYC",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t11",
+      "theme": "meo",
+      "run_at": "2026-12-03T11:46:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "96d55881c472",
+      "text": "Review thật: tháng trước mình mua 5 đơn, đơn nào cũng áp mã.\nTổng tiết kiệm gần 400K, đủ đi ăn một bữa ngon 😌\nBí quyết chỉ có một: có mã trước khi mua. https://s.shopee.vn/60TAUDIvuR",
+      "link": "https://s.shopee.vn/60TAUDIvuR",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t26",
+      "theme": "review",
+      "run_at": "2026-12-03T17:50:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "43625f57310c",
+      "text": "Ví mỏng không phải cái tội, mua đắt mới là tội 😌\nCùng shop, cùng sản phẩm, khác nhau đúng một cái mã giảm giá.\nMình để mã 100K ở đây, ai nhanh được: https://s.shopee.vn/1gKBKFZQht",
+      "link": "https://s.shopee.vn/1gKBKFZQht",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t04",
+      "theme": "san_sale",
+      "run_at": "2026-12-03T20:52:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:33:26"
+    },
+    {
+      "id": "520f2588d7e1",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: https://s.shopee.vn/3LSPJJT5Kh",
+      "link": "https://s.shopee.vn/3LSPJJT5Kh",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t20",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-18T21:04:00",
+      "status": "published",
+      "attempts": 1,
+      "last_error": "",
+      "published_id": "17970731622196300",
+      "created_at": "2026-11-18T15:36:12",
+      "published_at": "2026-11-18T21:34:29"
+    },
+    {
+      "id": "6653728a1283",
+      "text": "Tiền không tự sinh ra, nhưng có thể ở lại trong ví lâu hơn nếu bạn biết áp mã.\nhttps://s.shopee.vn/50adHNwEZH",
+      "link": "https://s.shopee.vn/50adHNwEZH",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t30",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-20T07:07:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "16eba833e67e",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/1qdbVerI9t",
+      "link": "https://s.shopee.vn/1qdbVerI9t",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-21T12:02:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "f7cde4f874ba",
+      "text": "Mua online mà không dùng mã giảm giá thì giống đi chợ mà không trả giá vậy đó 😅\nhttps://s.shopee.vn/8pnLqWQdx5",
+      "link": "https://s.shopee.vn/8pnLqWQdx5",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t11",
+      "theme": "meo",
+      "run_at": "2026-11-21T17:09:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "4abcd10d41ae",
+      "text": "Không phải cứ chờ 11/11 mới rẻ.\nNgày thường + đúng mã = vẫn rẻ hơn sale.\nMã đây: https://s.shopee.vn/6VPR4EZWfI",
+      "link": "https://s.shopee.vn/6VPR4EZWfI",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t17",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-24T11:38:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "01e5204eac70",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/9KjcSFi8ju",
+      "link": "https://s.shopee.vn/9KjcSFi8ju",
+      "image_urls": [
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-26T07:12:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "1b7344b6efe4",
+      "text": "Quy tắc 24h của mình: món gì sau 24h vẫn thấy cần thì mua kèm mã.\nMón gì quên luôn thì đã tiết kiệm được 100%.\nMón cần thật thì đây: https://s.shopee.vn/4fxmslxVFB",
+      "link": "https://s.shopee.vn/4fxmslxVFB",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t14",
+      "theme": "meo",
+      "run_at": "2026-11-26T17:33:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "ecb7acb5f0c6",
+      "text": "Mã 100K đơn đầu tiên, ai chưa dùng thì phí lắm.\nÁp vào là trừ thẳng vào đơn, không cần đợi sale.\nLấy tại: https://s.shopee.vn/3B8z66mDRU\nMình không giữ được lâu đâu nha.",
+      "link": "https://s.shopee.vn/3B8z66mDRU",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t15",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-28T17:07:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "40d98d2e66cf",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/5fqK5Vw6BI",
+      "link": "https://s.shopee.vn/5fqK5Vw6BI",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-28T20:55:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "690bcaafca90",
+      "text": "Đừng mua 10 món rẻ, hãy mua 3 món thật cần.\nNhưng nếu 3 món đó có mã giảm 100K thì… càng nên mua 😄\nMã đây: https://s.shopee.vn/3qOftF0fwA",
+      "link": "https://s.shopee.vn/3qOftF0fwA",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t05",
+      "theme": "san_sale",
+      "run_at": "2026-11-29T12:06:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "68329cee60d8",
+      "text": "Chuyện buồn nhất của người mua online:\nĐợi 3 ngày sale, đến giờ G thì… quên áp mã.\nĐừng như mình. Mã đây: https://s.shopee.vn/60TAU7upUJ",
+      "link": "https://s.shopee.vn/60TAU7upUJ",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t22",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-29T20:51:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "e93d306bdb61",
+      "text": "Đừng để đồ trong giỏ quá 3 ngày.\nKhông phải vì shop hết hàng, mà vì bạn sẽ quên mất mình đã có mã giảm giá 😌\nhttps://s.shopee.vn/AAIjRs34TP",
+      "link": "https://s.shopee.vn/AAIjRs34TP",
+      "image_urls": [
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t13",
+      "theme": "meo",
+      "run_at": "2026-11-30T11:56:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "2d1ceef0580c",
+      "text": "Không phải cứ chờ 11/11 mới rẻ.\nNgày thường + đúng mã = vẫn rẻ hơn sale.\nMã đây: https://s.shopee.vn/AKc9e5eKgz",
+      "link": "https://s.shopee.vn/AKc9e5eKgz",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t17",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-30T17:32:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "3c0e3d6e8ddf",
+      "text": "Đừng mua 10 món rẻ, hãy mua 3 món thật cần.\nNhưng nếu 3 món đó có mã giảm 100K thì… càng nên mua 😄\nMã đây: https://s.shopee.vn/906m3j7VqG",
+      "link": "https://s.shopee.vn/906m3j7VqG",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t05",
+      "theme": "san_sale",
+      "run_at": "2026-11-30T21:01:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "6bb325eb8d58",
+      "text": "Cách mình giảm 30% hoá đơn mỗi tháng:\n1. Bỏ đồ vào giỏ, đợi đúng ngày sale\n2. Săn mã trước giờ G\n3. Không mua gì ngoài danh sách\nBước 2 khó nhất, nên mình để mã sẵn đây: https://s.shopee.vn/3g5Fhq3iE5",
+      "link": "https://s.shopee.vn/3g5Fhq3iE5",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t10",
+      "theme": "meo",
+      "run_at": "2026-12-01T17:47:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "660575c94a8f",
+      "text": "Review thật: tháng trước mình mua 5 đơn, đơn nào cũng áp mã.\nTổng tiết kiệm gần 400K, đủ đi ăn một bữa ngon 😌\nBí quyết chỉ có một: có mã trước khi mua. https://s.shopee.vn/8fTvf78mVD",
+      "link": "https://s.shopee.vn/8fTvf78mVD",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t26",
+      "theme": "review",
+      "run_at": "2026-11-21T08:00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "fac0705d12b8",
+      "text": "Săn sale không cần thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: https://s.shopee.vn/40i65dj2kZ\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "link": "https://s.shopee.vn/40i65dj2kZ",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t01",
+      "theme": "san_sale",
+      "run_at": "2026-11-21T20:55:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "6a217655bb45",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/9zzJEfMCaA",
+      "link": "https://s.shopee.vn/9zzJEfMCaA",
+      "image_urls": [
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-22T08:28:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "46f00fb33834",
+      "text": "Cuối tuần rồi, dọn giỏ hàng thôi.\nNhớ áp mã trước khi thanh toán nha, đừng để mất tiền oan.\nMã 100K: https://s.shopee.vn/8Kr5GVA3B3",
+      "link": "https://s.shopee.vn/8Kr5GVA3B3",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t25",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-23T07:31:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "c5eb915f51ca",
+      "text": "Cách mình giảm 30% hoá đơn mỗi tháng:\n1. Bỏ đồ vào giỏ, đợi đúng ngày sale\n2. Săn mã trước giờ G\n3. Không mua gì ngoài danh sách\nBước 2 khó nhất, nên mình để mã sẵn đây: https://s.shopee.vn/8pnLrQ89BH",
+      "link": "https://s.shopee.vn/8pnLrQ89BH",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t10",
+      "theme": "meo",
+      "run_at": "2026-11-23T17:50:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "f97c46b64ca9",
+      "text": "Nếu bạn đang định mua gì đó trên Shopee, dừng lại 10 giây.\nÁp mã trước đã.\nMã 100K: https://s.shopee.vn/7puofaBxBc",
+      "link": "https://s.shopee.vn/7puofaBxBc",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t19",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-24T07:32:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "2a9074d8ac6d",
+      "text": "Đồ tốt không cần đắt, chỉ cần mua đúng lúc.\nMình canh mã từ sáng, tối về chốt đơn, rẻ hơn hẳn.\nhttps://s.shopee.vn/6q2HTkFlDO",
+      "link": "https://s.shopee.vn/6q2HTkFlDO",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t27",
+      "theme": "review",
+      "run_at": "2026-11-24T17:29:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "ce7c05cee128",
+      "text": "Ví mỏng không phải cái tội, mua đắt mới là tội 😌\nCùng shop, cùng sản phẩm, khác nhau đúng một cái mã giảm giá.\nMình để mã 100K ở đây, ai nhanh được: https://s.shopee.vn/8VAVSilJPY",
+      "link": "https://s.shopee.vn/8VAVSilJPY",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t04",
+      "theme": "san_sale",
+      "run_at": "2026-11-27T11:58:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "e5615504e37e",
+      "text": "Review thật: tháng trước mình mua 5 đơn, đơn nào cũng áp mã.\nTổng tiết kiệm gần 400K, đủ đi ăn một bữa ngon 😌\nBí quyết chỉ có một: có mã trước khi mua. https://s.shopee.vn/3g5Fh1kJQX",
+      "link": "https://s.shopee.vn/3g5Fh1kJQX",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t26",
+      "theme": "review",
+      "run_at": "2026-11-27T17:52:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "7ddfc5a7ae97",
+      "text": "Mã 100K đơn đầu tiên, ai chưa dùng thì phí lắm.\nÁp vào là trừ thẳng vào đơn, không cần đợi sale.\nLấy tại: https://s.shopee.vn/5Au3UgM6bs\nMình không giữ được lâu đâu nha.",
+      "link": "https://s.shopee.vn/5Au3UgM6bs",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t15",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-28T08:25:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "21990ef033a6",
+      "text": "Mua online mà không dùng mã giảm giá thì giống đi chợ mà không trả giá vậy đó 😅\nhttps://s.shopee.vn/7puoegURyT",
+      "link": "https://s.shopee.vn/7puoegURyT",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t11",
+      "theme": "meo",
+      "run_at": "2026-11-29T16:48:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "6c7bc5d5fa00",
+      "text": "Cuối tuần rồi, dọn giỏ hàng thôi.\nNhớ áp mã trước khi thanh toán nha, đừng để mất tiền oan.\nMã 100K: https://s.shopee.vn/1LhKvdahOs",
+      "link": "https://s.shopee.vn/1LhKvdahOs",
+      "image_urls": [
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t25",
+      "theme": "tuong_tac",
+      "run_at": "2026-12-01T07:05:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:12"
+    },
+    {
+      "id": "aeebb0641eff",
+      "text": "Tháng này bạn đã dùng mã giảm giá nào chưa?\nNếu chưa thì đây là dấu hiệu bạn đang chi tiêu hơi phóng khoáng 😌\nMã 100K cho đơn đầu: https://s.shopee.vn/1gKBJLrvTp",
+      "link": "https://s.shopee.vn/1gKBJLrvTp",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t07",
+      "theme": "san_sale",
+      "run_at": "2026-11-23T11:39:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:27"
+    },
+    {
+      "id": "5180cd91e5d2",
+      "text": "Nếu bạn đang định mua gì đó trên Shopee, dừng lại 10 giây.\nÁp mã trước đã.\nMã 100K: https://s.shopee.vn/60TATJbQgF",
+      "link": "https://s.shopee.vn/60TATJbQgF",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t19",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-23T21:02:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:27"
+    },
+    {
+      "id": "59543355e020",
+      "text": "Quy tắc 24h của mình: món gì sau 24h vẫn thấy cần thì mua kèm mã.\nMón gì quên luôn thì đã tiết kiệm được 100%.\nMón cần thật thì đây: https://s.shopee.vn/LonjiGOzl",
+      "link": "https://s.shopee.vn/LonjiGOzl",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t14",
+      "theme": "meo",
+      "run_at": "2026-11-26T20:47:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:27"
+    },
+    {
+      "id": "a585dc029533",
+      "text": "Săn sale không cần thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: https://s.shopee.vn/4fxmtfzuCR\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "link": "https://s.shopee.vn/4fxmtfzuCR",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t01",
+      "theme": "san_sale",
+      "run_at": "2026-11-28T12:12:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:27"
+    },
+    {
+      "id": "c64e6eb3c6a2",
+      "text": "Mẹo nhỏ mà tiết kiệm thật: trước khi thanh toán, luôn bấm vào ô “mã giảm giá”.\nNhiều shop để mã ẩn ở đó, không bấm là mất.\nMình có sẵn mã 100K cho bạn: https://s.shopee.vn/6L60sjtYoL",
+      "link": "https://s.shopee.vn/6L60sjtYoL",
+      "image_urls": [
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t09",
+      "theme": "meo",
+      "run_at": "2026-11-30T20:44:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:27"
+    },
+    {
+      "id": "9af232bf7ace",
+      "text": "Tiền không tự sinh ra, nhưng có thể ở lại trong ví lâu hơn nếu bạn biết áp mã.\nhttps://s.shopee.vn/5VWtsOdKhC",
+      "link": "https://s.shopee.vn/5VWtsOdKhC",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg"
+      ],
+      "template_id": "t30",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-19T17:25:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:42"
+    },
+    {
+      "id": "0662cb73580a",
+      "text": "Cuối tuần rồi, dọn giỏ hàng thôi.\nNhớ áp mã trước khi thanh toán nha, đừng để mất tiền oan.\nMã 100K: https://s.shopee.vn/1BNuiQtpVp",
+      "link": "https://s.shopee.vn/1BNuiQtpVp",
+      "image_urls": [
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t25",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-20T21:03:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:42"
+    },
+    {
+      "id": "e358d157abf7",
+      "text": "Đừng mua 10 món rẻ, hãy mua 3 món thật cần.\nNhưng nếu 3 món đó có mã giảm 100K thì… càng nên mua 😄\nMã đây: https://s.shopee.vn/8AXf4CAgX5",
+      "link": "https://s.shopee.vn/8AXf4CAgX5",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t05",
+      "theme": "san_sale",
+      "run_at": "2026-11-24T20:44:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:42"
+    },
+    {
+      "id": "fc5ca4b0beed",
+      "text": "Mua online mà không dùng mã giảm giá thì giống đi chợ mà không trả giá vậy đó 😅\nhttps://s.shopee.vn/1W0l7wa43v",
+      "link": "https://s.shopee.vn/1W0l7wa43v",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t11",
+      "theme": "meo",
+      "run_at": "2026-11-25T20:35:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:42"
+    },
+    {
+      "id": "53e1e09c292f",
+      "text": "Đừng mua 10 món rẻ, hãy mua 3 món thật cần.\nNhưng nếu 3 món đó có mã giảm 100K thì… càng nên mua 😄\nMã đây: https://s.shopee.vn/3VlpUd1wc4",
+      "link": "https://s.shopee.vn/3VlpUd1wc4",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg"
+      ],
+      "template_id": "t05",
+      "theme": "san_sale",
+      "run_at": "2026-11-20T11:57:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:57"
+    },
+    {
+      "id": "3d1e13fef51d",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: https://s.shopee.vn/2LZs7TWtN6",
+      "link": "https://s.shopee.vn/2LZs7TWtN6",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg"
+      ],
+      "template_id": "t29",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-22T21:13:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:57"
+    },
+    {
+      "id": "d42965a176cd",
+      "text": "Không phải cứ chờ 11/11 mới rẻ.\nNgày thường + đúng mã = vẫn rẻ hơn sale.\nMã đây: https://s.shopee.vn/8Kr5GPlwlY",
+      "link": "https://s.shopee.vn/8Kr5GPlwlY",
+      "image_urls": [
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t17",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-27T21:05:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:57"
+    },
+    {
+      "id": "66e886b9ebf7",
+      "text": "Quy tắc 24h của mình: món gì sau 24h vẫn thấy cần thì mua kèm mã.\nMón gì quên luôn thì đã tiết kiệm được 100%.\nMón cần thật thì đây: https://s.shopee.vn/9fMSq3NTG8",
+      "link": "https://s.shopee.vn/9fMSq3NTG8",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t14",
+      "theme": "meo",
+      "run_at": "2026-12-01T21:02:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:36:57"
+    },
+    {
+      "id": "d39c41db3142",
+      "text": "Săn sale không cần thức nửa đêm 😌\nMình có sẵn mã 100K cho đơn đầu tiên, áp vào là trừ thẳng.\nCùng một món đồ, người mua đắt hơn chỉ vì thiếu đúng một cái mã.\n👉 Lấy mã: https://s.shopee.vn/60TAU7upVK\nSố lượng có hạn, ai nhanh tay trước nha!",
+      "link": "https://s.shopee.vn/60TAU7upVK",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t01",
+      "theme": "san_sale",
+      "run_at": "2026-11-30T07:10:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:12"
+    },
+    {
+      "id": "9231d5b7c377",
+      "text": "Cuối tuần rồi, dọn giỏ hàng thôi.\nNhớ áp mã trước khi thanh toán nha, đừng để mất tiền oan.\nMã 100K: https://s.shopee.vn/1BNujFDEIq",
+      "link": "https://s.shopee.vn/1BNujFDEIq",
+      "image_urls": [
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t25",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-20T17:52:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:27"
+    },
+    {
+      "id": "fc8e9af71578",
+      "text": "Nếu bạn đang định mua gì đó trên Shopee, dừng lại 10 giây.\nÁp mã trước đã.\nMã 100K: https://s.shopee.vn/8fTvf1kg5a",
+      "link": "https://s.shopee.vn/8fTvf1kg5a",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t19",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-25T21:03:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:27"
+    },
+    {
+      "id": "86fca3bcb5f9",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: https://s.shopee.vn/5Au3Uay0BU",
+      "link": "https://s.shopee.vn/5Au3Uay0BU",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t20",
+      "theme": "tuong_tac",
+      "run_at": "2026-12-01T11:37:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:27"
+    },
+    {
+      "id": "0a1c1720d0a9",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: https://s.shopee.vn/50adINMjwr",
+      "link": "https://s.shopee.vn/50adINMjwr",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t12",
+      "theme": "meo",
+      "run_at": "2026-11-22T17:13:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:42"
+    },
+    {
+      "id": "2d8fb9fec47e",
+      "text": "Mấy đứa hay khoe “mua rẻ hơn bạn” không giỏi mặc cả đâu, tụi nó chỉ có sẵn mã 🤫\nMã 100K đơn đầu, dùng là trừ luôn, không điều kiện rườm rà.\nhttps://s.shopee.vn/60TAUDIvvS",
+      "link": "https://s.shopee.vn/60TAUDIvvS",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t06",
+      "theme": "san_sale",
+      "run_at": "2026-11-23T20:37:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:42"
+    },
+    {
+      "id": "1ac7fe4ea3ad",
+      "text": "Team “thêm vào giỏ rồi để đó” điểm danh 🙋\nBạn đang giữ bao nhiêu món trong giỏ?\nMình vừa dọn giỏ và tiết kiệm được 100K nhờ cái này: https://s.shopee.vn/AAIjRs34SM",
+      "link": "https://s.shopee.vn/AAIjRs34SM",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t21",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-25T07:14:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:42"
+    },
+    {
+      "id": "4fb03bb39b1c",
+      "text": "Mấy đứa hay khoe “mua rẻ hơn bạn” không giỏi mặc cả đâu, tụi nó chỉ có sẵn mã 🤫\nMã 100K đơn đầu, dùng là trừ luôn, không điều kiện rườm rà.\nhttps://s.shopee.vn/5LDTgzLTHG",
+      "link": "https://s.shopee.vn/5LDTgzLTHG",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t06",
+      "theme": "san_sale",
+      "run_at": "2026-11-25T11:55:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:42"
+    },
+    {
+      "id": "4817fbe73f8b",
+      "text": "Đừng để đồ trong giỏ quá 3 ngày.\nKhông phải vì shop hết hàng, mà vì bạn sẽ quên mất mình đã có mã giảm giá 😌\nhttps://s.shopee.vn/1gKBJLrvUq",
+      "link": "https://s.shopee.vn/1gKBJLrvUq",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t13",
+      "theme": "meo",
+      "run_at": "2026-11-27T07:31:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:57"
+    },
+    {
+      "id": "78c486bce0e9",
+      "text": "Ví mỏng không phải cái tội, mua đắt mới là tội 😌\nCùng shop, cùng sản phẩm, khác nhau đúng một cái mã giảm giá.\nMình để mã 100K ở đây, ai nhanh được: https://s.shopee.vn/5q9kHovSqL",
+      "link": "https://s.shopee.vn/5q9kHovSqL",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t04",
+      "theme": "san_sale",
+      "run_at": "2026-11-29T08:24:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:37:57"
+    },
+    {
+      "id": "be6f46d4aeeb",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: https://s.shopee.vn/2VtIIsoknx",
+      "link": "https://s.shopee.vn/2VtIIsoknx",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t20",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-25T17:55:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:38:12"
+    },
+    {
+      "id": "9a26ad392989",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: https://s.shopee.vn/9fMSqx4yTB",
+      "link": "https://s.shopee.vn/9fMSqx4yTB",
+      "image_urls": [
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t12",
+      "theme": "meo",
+      "run_at": "2026-11-26T11:32:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:38:27"
+    },
+    {
+      "id": "d8a145a85ad2",
+      "text": "Món mình mua nhiều nhất tháng này: đồ gia dụng nhỏ.\nCái nào cũng có mã, cái nào cũng rẻ hơn giá hiển thị.\nLink lấy mã: https://s.shopee.vn/70Lhg3F7tQ",
+      "link": "https://s.shopee.vn/70Lhg3F7tQ",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t28",
+      "theme": "review",
+      "run_at": "2026-12-01T20:36:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:38:27"
+    },
+    {
+      "id": "5765c287f60b",
+      "text": "Team “thêm vào giỏ rồi để đó” điểm danh 🙋\nBạn đang giữ bao nhiêu món trong giỏ?\nMình vừa dọn giỏ và tiết kiệm được 100K nhờ cái này: https://s.shopee.vn/80EErnnDRW",
+      "link": "https://s.shopee.vn/80EErnnDRW",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg"
+      ],
+      "template_id": "t21",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-22T12:13:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:38:42"
+    },
+    {
+      "id": "953d86382e1f",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: https://s.shopee.vn/1BxKHyGrf",
+      "link": "https://s.shopee.vn/1BxKHyGrf",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg"
+      ],
+      "template_id": "t12",
+      "theme": "meo",
+      "run_at": "2026-11-26T11:59:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:38:57"
+    },
+    {
+      "id": "a33ba3880b29",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: https://s.shopee.vn/6firHRGOYN",
+      "link": "https://s.shopee.vn/6firHRGOYN",
+      "image_urls": [
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg"
+      ],
+      "template_id": "t29",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-30T07:35:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:38:57"
+    },
+    {
+      "id": "3def4316a5f2",
+      "text": "Ba thứ nên chuẩn bị trước khi bấm “Mua ngay”:\n1. Món đồ thật sự cần\n2. Mã giảm giá\n3. Một chút bình tĩnh 😆\nThiếu cái số 2 là dễ mất tiền oan nhất.\nMã 100K đây: https://s.shopee.vn/906m3djPPc",
+      "link": "https://s.shopee.vn/906m3djPPc",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg"
+      ],
+      "template_id": "t02",
+      "theme": "san_sale",
+      "run_at": "2026-11-22T08:01:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:39:12"
+    },
+    {
+      "id": "f3b66c7c804f",
+      "text": "Chuyện buồn nhất của người mua online:\nĐợi 3 ngày sale, đến giờ G thì… quên áp mã.\nĐừng như mình. Mã đây: https://s.shopee.vn/5LDTgtxMrG",
+      "link": "https://s.shopee.vn/5LDTgtxMrG",
+      "image_urls": [
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg"
+      ],
+      "template_id": "t22",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-19T20:37:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:39:27"
+    },
+    {
+      "id": "399166076dd7",
+      "text": "Món mình mua nhiều nhất tháng này: đồ gia dụng nhỏ.\nCái nào cũng có mã, cái nào cũng rẻ hơn giá hiển thị.\nLink lấy mã: https://s.shopee.vn/3LSPIK2Zx3",
+      "link": "https://s.shopee.vn/3LSPIK2Zx3",
+      "image_urls": [
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg",
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg"
+      ],
+      "template_id": "t28",
+      "theme": "review",
+      "run_at": "2026-11-25T17:27:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:39:42"
+    },
+    {
+      "id": "da347a6a1954",
+      "text": "Ba thứ nên chuẩn bị trước khi bấm “Mua ngay”:\n1. Món đồ thật sự cần\n2. Mã giảm giá\n3. Một chút bình tĩnh 😆\nThiếu cái số 2 là dễ mất tiền oan nhất.\nMã 100K đây: https://s.shopee.vn/AKc9dHKvtB",
+      "link": "https://s.shopee.vn/AKc9dHKvtB",
+      "image_urls": [
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t02",
+      "theme": "san_sale",
+      "run_at": "2026-11-26T20:35:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:39:58"
+    },
+    {
+      "id": "df589546cb1b",
+      "text": "Mua hàng mà không có mã, không hoàn tiền thì đang nuôi shop hơi nhiều rồi đó 😅\nBắt đầu từ cái mã 100K này cho dễ: https://s.shopee.vn/1W0l7wa42s",
+      "link": "https://s.shopee.vn/1W0l7wa42s",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t29",
+      "theme": "hoan_tien",
+      "run_at": "2026-12-01T07:35:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:39:58"
+    },
+    {
+      "id": "bd5b28a1418c",
+      "text": "Review thật: tháng trước mình mua 5 đơn, đơn nào cũng áp mã.\nTổng tiết kiệm gần 400K, đủ đi ăn một bữa ngon 😌\nBí quyết chỉ có một: có mã trước khi mua. https://s.shopee.vn/gRe7VvjVj",
+      "link": "https://s.shopee.vn/gRe7VvjVj",
+      "image_urls": [
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t26",
+      "theme": "review",
+      "run_at": "2026-11-27T17:40:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:40:58"
+    },
+    {
+      "id": "7a233f67df74",
+      "text": "Tâm lý học bán hàng: freeship khiến bạn mua thêm 2 món.\nMã giảm 100K cũng vậy 😆\nÍt nhất lần này bạn tiết kiệm thật: https://s.shopee.vn/2BGRuGq1Ss",
+      "link": "https://s.shopee.vn/2BGRuGq1Ss",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t12",
+      "theme": "meo",
+      "run_at": "2026-11-22T11:45:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:41:43"
+    },
+    {
+      "id": "6ad857819037",
+      "text": "Hỏi thật: lần cuối bạn được giảm giá 100K là khi nào?\nNếu không nhớ nổi thì thử cái này xem: https://s.shopee.vn/2VtIIn5ke2",
+      "link": "https://s.shopee.vn/2VtIIn5ke2",
+      "image_urls": [
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t16",
+      "theme": "ma_giam_gia",
+      "run_at": "2026-11-21T12:15:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:41:58"
+    },
+    {
+      "id": "59a2a85f3087",
+      "text": "Mua online mà không dùng mã giảm giá thì giống đi chợ mà không trả giá vậy đó 😅\nhttps://s.shopee.vn/AKc9dHKvuC",
+      "link": "https://s.shopee.vn/AKc9dHKvuC",
+      "image_urls": [
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/zWy9fGV5/1794501814678-551725978125762976-5252262472989836779-8045df701bdeb9f198259d2442be49a7.jpg",
+        "https://i.ibb.co/S7XsQMBY/1794501997586-551725978125762976-5252262472989836779-24915f941ef26d8f29d64d6cc5a4c22e.jpg"
+      ],
+      "template_id": "t11",
+      "theme": "meo",
+      "run_at": "2026-11-27T11:32:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:42:58"
+    },
+    {
+      "id": "99cf4f8851ab",
+      "text": "Tiền không tự sinh ra, nhưng có thể ở lại trong ví lâu hơn nếu bạn biết áp mã.\nhttps://s.shopee.vn/1qdbVZ8Hzy",
+      "link": "https://s.shopee.vn/1qdbVZ8Hzy",
+      "image_urls": [
+        "https://i.ibb.co/Jw4w6SVS/1794501829762-551725978125762976-5252262472989836779-236f47648b6a1918e6d41e4fe4f97b96.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg"
+      ],
+      "template_id": "t30",
+      "theme": "hoan_tien",
+      "run_at": "2026-11-20T07:35:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:43:13"
+    },
+    {
+      "id": "58959d81526c",
+      "text": "Tháng này bạn đã dùng mã giảm giá nào chưa?\nNếu chưa thì đây là dấu hiệu bạn đang chi tiêu hơi phóng khoáng 😌\nMã 100K cho đơn đầu: https://s.shopee.vn/9KjcRROjv5",
+      "link": "https://s.shopee.vn/9KjcRROjv5",
+      "image_urls": [
+        "https://i.ibb.co/JRrjH9LX/1794501985847-551725978125762976-5252262472989836779-eb1d46b68db7dfc684df15f8061b4ec3.jpg",
+        "https://i.ibb.co/LWDsDv4/1794502082165-551725978125762976-5252262472989836779-3ab1628f917bf7aaf9b618c3541e7b60.jpg",
+        "https://i.ibb.co/qFXZdMQV/1794485909407-551725978125762976-5252262472989836779-400fb8a025c4a416f7e7815f6d248466.jpg"
+      ],
+      "template_id": "t07",
+      "theme": "san_sale",
+      "run_at": "2026-11-20T20:35:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:43:28"
+    },
+    {
+      "id": "b53268020bf2",
+      "text": "Nếu chỉ được chọn một món dưới 100K mà dùng được cả năm, bạn chọn gì?\nComment cho mình xem, biết đâu thành danh sách mua sắm chung 😄\nGợi ý của mình: mã giảm giá, rẻ mà dùng được nhiều lần: https://s.shopee.vn/1qdbVerI8q",
+      "link": "https://s.shopee.vn/1qdbVerI8q",
+      "image_urls": [
+        "https://i.ibb.co/4wszkLGr/1794485909398-551725978125762976-5252262472989836779-3fb552bd42d81cc4755e631487236b21.jpg",
+        "https://i.ibb.co/rKYVYbvz/1794501956250-551725978125762976-5252262472989836779-e61654e61da946c43ddba49f8e7af6c8.jpg",
+        "https://i.ibb.co/NddHYqkB/1794485909372-551725978125762976-5252262472989836779-ab84824332fb9f2124dc6536378687f2.jpg"
+      ],
+      "template_id": "t20",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-20T17:25:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:49:15"
+    },
+    {
+      "id": "19883dcaaf03",
+      "text": "Người khôn ngoan không chờ sale, họ chuẩn bị mã trước ngày sale.\nMình chuẩn bị sẵn rồi, phần bạn là bấm vào đây: https://s.shopee.vn/9zzJFTfbMx",
+      "link": "https://s.shopee.vn/9zzJFTfbMx",
+      "image_urls": [
+        "https://i.ibb.co/XrQLZQhs/1794501956263-551725978125762976-5252262472989836779-37c91e99fb64b0945e0ed55e762c654f.jpg",
+        "https://i.ibb.co/5gSv5Zgw/1794501956232-551725978125762976-5252262472989836779-b0988c7560bf51e96abd0125510a5f7d.jpg",
+        "https://i.ibb.co/Cs783YYD/1794485909418-551725978125762976-5252262472989836779-27e276b25e57ec395fb64e315b6b7029.jpg"
+      ],
+      "template_id": "t08",
+      "theme": "san_sale",
+      "run_at": "2026-11-21T08:30:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:52:27"
+    },
+    {
+      "id": "d8fdc8bd532a",
+      "text": "Món đồ bạn mua nhiều lần nhất trên Shopee là gì?\nMình là… mã giảm giá 😆 Rẻ mà lần nào cũng có lời.\nhttps://s.shopee.vn/9V32ee5boA",
+      "link": "https://s.shopee.vn/9V32ee5boA",
+      "image_urls": [
+        "https://i.ibb.co/DDt48nSL/1794485909433-551725978125762976-5252262472989836779-fe23f5f82fc6032a66d90d66a4cdaa86.jpg",
+        "https://i.ibb.co/RpkhMkZp/1794502048411-551725978125762976-5252262472989836779-fb3fc350ba99fcbce72d2bdef1203852.jpg",
+        "https://i.ibb.co/HDFVTGcK/1794502028515-551725978125762976-5252262472989836779-e18890c4d649de7ed8db03cc6c21c58f.jpg"
+      ],
+      "template_id": "t24",
+      "theme": "tuong_tac",
+      "run_at": "2026-11-19T17:55:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": "",
+      "published_id": "",
+      "created_at": "2026-11-18T15:59:41"
+    }
+  ],
+  "logs": [
+    {
+      "ts": "2026-11-18T09:55:02",
+      "level": "info",
+      "message": "Đã tạo 27 bài cho 7 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T10:01:58",
+      "level": "info",
+      "message": "Cập nhật thư viện nội dung (30 mẫu)."
+    },
+    {
+      "ts": "2026-11-18T10:14:34",
+      "level": "info",
+      "message": "Đã đăng bài 995bb768d05d – Đăng thành công (3 ảnh) – ID: 18099760487453673"
+    },
+    {
+      "ts": "2026-11-18T10:29:26",
+      "level": "info",
+      "message": "Đã đăng bài 9d621d9dfbe7 – Đăng thành công (3 ảnh) – ID: 18100756217433319"
+    },
+    {
+      "ts": "2026-11-18T10:30:09",
+      "level": "info",
+      "message": "Đã đăng bài b89a6803f3f7 – Đăng thành công (3 ảnh) – ID: 18124598090287131"
+    },
+    {
+      "ts": "2026-11-18T10:30:50",
+      "level": "info",
+      "message": "Đã đăng bài b2f9f3a09ec9 – Đăng thành công (3 ảnh) – ID: 18211678960371288"
+    },
+    {
+      "ts": "2026-11-18T10:31:30",
+      "level": "info",
+      "message": "Đã đăng bài 30f82a4a5cc9 – Đăng thành công (3 ảnh) – ID: 17893015095619542"
+    },
+    {
+      "ts": "2026-11-18T10:32:07",
+      "level": "info",
+      "message": "Đã đăng bài fd01e9ebf9a6 – Đăng thành công (3 ảnh) – ID: 18042155010344907"
+    },
+    {
+      "ts": "2026-11-18T10:32:48",
+      "level": "info",
+      "message": "Đã đăng bài ef57e8d88eb1 – Đăng thành công (3 ảnh) – ID: 18122025875048818"
+    },
+    {
+      "ts": "2026-11-18T10:33:26",
+      "level": "info",
+      "message": "Đã đăng bài efc58d95124d – Đăng thành công (3 ảnh) – ID: 18420386983083418"
+    },
+    {
+      "ts": "2026-11-18T10:34:05",
+      "level": "info",
+      "message": "Đã đăng bài 3189a0aca837 – Đăng thành công (3 ảnh) – ID: 18094234925216726"
+    },
+    {
+      "ts": "2026-11-18T10:34:45",
+      "level": "info",
+      "message": "Đã đăng bài 9c2948260fc9 – Đăng thành công (3 ảnh) – ID: 18169725553515986"
+    },
+    {
+      "ts": "2026-11-18T10:35:24",
+      "level": "info",
+      "message": "Đã đăng bài 31cbf78239e5 – Đăng thành công (3 ảnh) – ID: 18497067637111760"
+    },
+    {
+      "ts": "2026-11-18T10:36:06",
+      "level": "info",
+      "message": "Đã đăng bài d627dfe50b16 – Đăng thành công (3 ảnh) – ID: 18388907329226894"
+    },
+    {
+      "ts": "2026-11-18T10:36:46",
+      "level": "info",
+      "message": "Đã đăng bài f38f67735f6c – Đăng thành công (3 ảnh) – ID: 18123995194984942"
+    },
+    {
+      "ts": "2026-11-18T10:37:25",
+      "level": "info",
+      "message": "Đã đăng bài 055c05583d2a – Đăng thành công (3 ảnh) – ID: 18128034832913132"
+    },
+    {
+      "ts": "2026-11-18T10:38:03",
+      "level": "info",
+      "message": "Đã đăng bài af99f0a7c35c – Đăng thành công (3 ảnh) – ID: 18099199091124239"
+    },
+    {
+      "ts": "2026-11-18T10:38:49",
+      "level": "info",
+      "message": "Đã đăng bài 5a42aee7118b – Đăng thành công (3 ảnh) – ID: 18134041639840630"
+    },
+    {
+      "ts": "2026-11-18T10:39:30",
+      "level": "info",
+      "message": "Đã đăng bài e50165a6460a – Đăng thành công (3 ảnh) – ID: 18068973479512095"
+    },
+    {
+      "ts": "2026-11-18T10:40:10",
+      "level": "info",
+      "message": "Đã đăng bài c1464939603e – Đăng thành công (3 ảnh) – ID: 18121942792763137"
+    },
+    {
+      "ts": "2026-11-18T10:40:49",
+      "level": "info",
+      "message": "Đã đăng bài 8e30d11931ec – Đăng thành công (3 ảnh) – ID: 17959588593335489"
+    },
+    {
+      "ts": "2026-11-18T10:41:28",
+      "level": "info",
+      "message": "Đã đăng bài 53d3b5212746 – Đăng thành công (3 ảnh) – ID: 18101005556440200"
+    },
+    {
+      "ts": "2026-11-18T10:42:07",
+      "level": "info",
+      "message": "Đã đăng bài c4e4977a6c7d – Đăng thành công (3 ảnh) – ID: 18117462551161263"
+    },
+    {
+      "ts": "2026-11-18T10:42:46",
+      "level": "info",
+      "message": "Đã đăng bài 0566a9067bd2 – Đăng thành công (3 ảnh) – ID: 18143896459622069"
+    },
+    {
+      "ts": "2026-11-18T10:43:24",
+      "level": "info",
+      "message": "Đã đăng bài cb4265d6b56c – Đăng thành công (3 ảnh) – ID: 18127889026895127"
+    },
+    {
+      "ts": "2026-11-18T10:43:29",
+      "level": "info",
+      "message": "Đã tạo 7 bài cho 2 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T10:43:29",
+      "level": "info",
+      "message": "Tự động bổ sung 7 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T10:43:44",
+      "level": "info",
+      "message": "Đã tạo 3 bài cho 2 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T10:43:44",
+      "level": "info",
+      "message": "Tự động bổ sung 3 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T12:24:45",
+      "level": "warn",
+      "message": "Bài 43cc3f117e37 sẽ thử lại lúc 12:44: Lỗi mạng: HTTPSConnectionPool(host='graph.threads.net', port=443): Max retries exceeded with url: /v1.0/me/threads (Caused by NameResolutionError(\"HTTPSConnection(host='graph.threads.net', port=443): Failed to resolve 'graph.threads.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "ts": "2026-11-18T12:24:48",
+      "level": "warn",
+      "message": "Bài 3c12a49b3268 sẽ thử lại lúc 12:44: Lỗi mạng: HTTPSConnectionPool(host='graph.threads.net', port=443): Max retries exceeded with url: /v1.0/me/threads (Caused by NameResolutionError(\"HTTPSConnection(host='graph.threads.net', port=443): Failed to resolve 'graph.threads.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "ts": "2026-11-18T15:16:19",
+      "level": "info",
+      "message": "Đã đăng bài 43cc3f117e37 – Đăng thành công (3 ảnh) – ID: 17960694852262280"
+    },
+    {
+      "ts": "2026-11-18T15:16:58",
+      "level": "info",
+      "message": "Đã đăng bài 3c12a49b3268 – Đăng thành công (3 ảnh) – ID: 18094417313216130"
+    },
+    {
+      "ts": "2026-11-18T15:19:01",
+      "level": "info",
+      "message": "Đã tạo 5 bài cho 2 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:19:01",
+      "level": "info",
+      "message": "Tự động bổ sung 5 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:19:16",
+      "level": "info",
+      "message": "Đã tạo 5 bài cho 2 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:19:16",
+      "level": "info",
+      "message": "Tự động bổ sung 5 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:20:01",
+      "level": "info",
+      "message": "Đã tạo 6 bài cho 2 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:20:01",
+      "level": "info",
+      "message": "Tự động bổ sung 6 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:20:16",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 2 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:20:16",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:20:31",
+      "level": "info",
+      "message": "Đã tạo 2 bài cho 2 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:20:31",
+      "level": "info",
+      "message": "Tự động bổ sung 2 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:22:06",
+      "level": "info",
+      "message": "Đã lên lịch bài a7debe35f095 lúc 17:33 18/11."
+    },
+    {
+      "ts": "2026-11-18T15:22:24",
+      "level": "info",
+      "message": "Đã lên lịch bài 976549d276c3 lúc 20:39 18/11."
+    },
+    {
+      "ts": "2026-11-18T15:22:33",
+      "level": "info",
+      "message": "Đã lên lịch bài 15f8dcb937b0 lúc 16:22 18/11."
+    },
+    {
+      "ts": "2026-11-18T15:22:44",
+      "level": "info",
+      "message": "Đã lên lịch bài 1c78f91d53b7 lúc 16:22 18/11."
+    },
+    {
+      "ts": "2026-11-18T15:33:26",
+      "level": "info",
+      "message": "Đã tạo 55 bài cho 16 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:35:08",
+      "level": "info",
+      "message": "Cập nhật cài đặt nhịp đăng."
+    },
+    {
+      "ts": "2026-11-18T15:35:16",
+      "level": "info",
+      "message": "Cập nhật cài đặt nhịp đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:02",
+      "level": "info",
+      "message": "Cập nhật cài đặt nhịp đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:04",
+      "level": "info",
+      "message": "Cập nhật cài đặt nhịp đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:05",
+      "level": "info",
+      "message": "Cập nhật cài đặt nhịp đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:05",
+      "level": "info",
+      "message": "Cập nhật cài đặt nhịp đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:05",
+      "level": "info",
+      "message": "Cập nhật cài đặt nhịp đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:12",
+      "level": "info",
+      "message": "Đã tạo 15 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:36:12",
+      "level": "info",
+      "message": "Tự động bổ sung 15 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:12",
+      "level": "info",
+      "message": "Đã tạo 12 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:36:27",
+      "level": "info",
+      "message": "Đã tạo 5 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:36:27",
+      "level": "info",
+      "message": "Tự động bổ sung 5 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:42",
+      "level": "info",
+      "message": "Đã tạo 4 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:36:42",
+      "level": "info",
+      "message": "Tự động bổ sung 4 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:36:57",
+      "level": "info",
+      "message": "Đã tạo 4 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:36:57",
+      "level": "info",
+      "message": "Tự động bổ sung 4 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:37:12",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:37:12",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:37:27",
+      "level": "info",
+      "message": "Đã tạo 3 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:37:27",
+      "level": "info",
+      "message": "Tự động bổ sung 3 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:37:42",
+      "level": "info",
+      "message": "Đã tạo 4 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:37:42",
+      "level": "info",
+      "message": "Tự động bổ sung 4 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:37:57",
+      "level": "info",
+      "message": "Đã tạo 2 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:37:57",
+      "level": "info",
+      "message": "Tự động bổ sung 2 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:38:12",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:38:12",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:38:27",
+      "level": "info",
+      "message": "Đã tạo 2 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:38:27",
+      "level": "info",
+      "message": "Tự động bổ sung 2 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:38:42",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:38:42",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:38:57",
+      "level": "info",
+      "message": "Đã tạo 2 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:38:57",
+      "level": "info",
+      "message": "Tự động bổ sung 2 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:39:12",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:39:12",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:39:27",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:39:27",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:39:42",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:39:42",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:39:58",
+      "level": "info",
+      "message": "Đã tạo 2 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:39:58",
+      "level": "info",
+      "message": "Tự động bổ sung 2 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:40:58",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:40:58",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:41:43",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:41:43",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:41:58",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:41:58",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:42:58",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:42:58",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:43:13",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:43:13",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:43:28",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:43:28",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:49:15",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:49:15",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:52:27",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:52:27",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T15:59:41",
+      "level": "info",
+      "message": "Đã tạo 1 bài cho 14 ngày tới."
+    },
+    {
+      "ts": "2026-11-18T15:59:41",
+      "level": "info",
+      "message": "Tự động bổ sung 1 bài để duy trì lịch đăng."
+    },
+    {
+      "ts": "2026-11-18T16:22:42",
+      "level": "info",
+      "message": "Đã đăng bài 15f8dcb937b0 – Đăng thành công (3 ảnh) – ID: 18019459754748708"
+    },
+    {
+      "ts": "2026-11-18T16:23:19",
+      "level": "info",
+      "message": "Đã đăng bài 1c78f91d53b7 – Đăng thành công (3 ảnh) – ID: 18135412534760872"
+    },
+    {
+      "ts": "2026-11-18T16:34:28",
+      "level": "error",
+      "message": "Worker gặp lỗi: [WinError 5] Access is denied: 'C:\\\\Users\\\\LAPTOP\\\\OneDrive\\\\Desktop\\\\THREAD TOOL\\\\data\\\\threads_data.tmp' -> 'C:\\\\Users\\\\LAPTOP\\\\OneDrive\\\\Desktop\\\\THREAD TOOL\\\\data\\\\threads_data.json'"
+    },
+    {
+      "ts": "2026-11-18T16:57:25",
+      "level": "error",
+      "message": "Worker gặp lỗi: [WinError 5] Access is denied: 'C:\\\\Users\\\\LAPTOP\\\\OneDrive\\\\Desktop\\\\THREAD TOOL\\\\data\\\\threads_data.tmp' -> 'C:\\\\Users\\\\LAPTOP\\\\OneDrive\\\\Desktop\\\\THREAD TOOL\\\\data\\\\threads_data.json'"
+    },
+    {
+      "ts": "2026-11-18T17:33:51",
+      "level": "info",
+      "message": "Đã đăng bài a7debe35f095 – Đăng thành công (3 ảnh) – ID: 17901509886398921"
+    },
+    {
+      "ts": "2026-11-18T17:45:50",
+      "level": "info",
+      "message": "Đã đăng bài e47d280c9084 – Đăng thành công (3 ảnh) – ID: 17966170767212446"
+    },
+    {
+      "ts": "2026-11-18T21:33:11",
+      "level": "info",
+      "message": "Đã đăng bài 976549d276c3 – Đăng thành công (3 ảnh) – ID: 18143013559617946"
+    },
+    {
+      "ts": "2026-11-18T21:33:51",
+      "level": "info",
+      "message": "Đã đăng bài 683154e79dc7 – Đăng thành công (3 ảnh) – ID: 17890328553488155"
+    },
+    {
+      "ts": "2026-11-18T21:34:29",
+      "level": "info",
+      "message": "Đã đăng bài 520f2588d7e1 – Đăng thành công (3 ảnh) – ID: 17970731622196300"
+    },
+    {
+      "ts": "2026-11-18T21:34:29",
+      "level": "warn",
+      "message": "Đã chạm giới hạn số bài mỗi lượt, phần còn lại sẽ đăng ở lượt sau."
+    }
+  ],
+  "worker": {
+    "owner": "27632-0fa1a8",
+    "host": "Anthony",
+    "heartbeat": "2026-11-18T21:42:18"
+  },
+  "meta": {
+    "created_at": "2026-11-18T09:54:53",
+    "updated_at": "2026-11-18T21:42:18",
+    "version": 2,
+    "last_backup": ""
+  }
+}
